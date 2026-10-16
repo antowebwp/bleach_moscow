@@ -1,0 +1,1499 @@
+[
+  {
+    "id": 1,
+    "slug": "chistka_ugg_ugg",
+    "brand": "UGG",
+    "service": "Комплекс UGG",
+    "image": "assets/case-274342370_6624108282.jpg",
+    "catalogPrice": "4500 руб.",
+    "description": "Чистка обуви предлагается как отдельная услуга. Иногда для восстановления обуви можно обойтись без ремонта. Достаточно аккуратно очистить ее. При производстве работ по более серьезному ремонту чистка тоже обязательна.",
+    "tasks": [
+      "Комплекс UGG (чистка, выведение реагентов, восстановление цвета) - 5000р.",
+      "Водоотталкивающая пропитка - 500р."
+    ],
+    "total": "5500 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/chistka_ugg_ugg/",
+    "category": "Обувь",
+    "width": 1440,
+    "height": 1440
+  },
+  {
+    "id": 2,
+    "slug": "complex_full_gucci",
+    "brand": "Gucci",
+    "service": "Чистка + покраска",
+    "image": "assets/case-IMG_2464.jpg",
+    "catalogPrice": "6000 руб.",
+    "description": "",
+    "tasks": [
+      "Комплекс FULL(чистка пары, реставрация и покраска кожи) - 7000р"
+    ],
+    "total": "7000 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/complex_full_gucci/",
+    "category": "Обувь",
+    "width": 1280,
+    "height": 1280
+  },
+  {
+    "id": 3,
+    "slug": "chistka_obuvi_yeezy",
+    "brand": "Yeezy",
+    "service": "Чистка обуви",
+    "image": "assets/case-IMG_9499.png",
+    "catalogPrice": "4000 руб.",
+    "description": "",
+    "tasks": [
+      "Чистка обуви - 4000р"
+    ],
+    "total": "4000 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/chistka_obuvi_yeezy/",
+    "category": "Обувь",
+    "width": 1280,
+    "height": 1280
+  },
+  {
+    "id": 4,
+    "slug": "complex_full_santoni",
+    "brand": "Santoni",
+    "service": "Чистка + покраска",
+    "image": "assets/case-IMG-8571.png",
+    "catalogPrice": "8000 руб.",
+    "description": "",
+    "tasks": [
+      "Комплекс FULL (чистка пары + реставрация и покраска кожи) - 7000 руб.",
+      "Дополнительный цвет (патинаж) - 1000 руб."
+    ],
+    "total": "8000 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/complex_full_santoni/",
+    "category": "Обувь",
+    "width": 1280,
+    "height": 1280
+  },
+  {
+    "id": 78,
+    "slug": "complex_full_dior",
+    "brand": "Dior",
+    "service": "Чистка + покраска",
+    "image": "assets/case-IMG-2195.png",
+    "catalogPrice": "7000 руб.",
+    "description": "",
+    "tasks": [
+      "Комплекс FULL (чистка пары, реставрация и покраска кожи) - 7000 руб.",
+      "Профилактика с наращиванием подошвы в мысовой части - 3500 руб."
+    ],
+    "total": "10500 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/complex_full_dior/",
+    "category": "Обувь",
+    "width": 1280,
+    "height": 1280
+  },
+  {
+    "id": 6,
+    "slug": "zamena_podoshvi_loro_piana_1",
+    "brand": "Loro Piana",
+    "service": "Замена подошвы",
+    "image": "assets/case-IMG-7905.png",
+    "catalogPrice": "12000 руб.",
+    "description": "",
+    "tasks": [
+      "Комплекс FULL ( чистка пары, тонировка замши) - 7000 руб.",
+      "Замена подошвы - 12000 руб."
+    ],
+    "total": "19000 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/zamena_podoshvi_loro_piana_1/",
+    "category": "Обувь",
+    "width": 1280,
+    "height": 1280
+  },
+  {
+    "id": 7,
+    "slug": "restavracia_i_pokraska_kozhi_chanel",
+    "brand": "Chanel",
+    "service": "Реставрация сумки",
+    "image": "assets/case-IMG-7370.png",
+    "catalogPrice": "12000 руб.",
+    "description": "",
+    "tasks": [
+      "Реставрация и покраска кожи сумки более 25см - 12000 руб."
+    ],
+    "total": "12000 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/restavracia_i_pokraska_kozhi_chanel/",
+    "category": "Сумки и аксессуары",
+    "width": 1280,
+    "height": 1280
+  },
+  {
+    "id": 8,
+    "slug": "complex_full_prada",
+    "brand": "Prada",
+    "service": "Чистка + покраска",
+    "image": "assets/case-IMG-2449.jpg",
+    "catalogPrice": "12000 руб.",
+    "description": "",
+    "tasks": [
+      "Комплекс FULL ( чистка пары до 30 см в высоту, реставрация и покраска кожи) - 7500 руб.",
+      "Ремонт подошвы - 2000 руб.",
+      "Профилактика на подошву - 2500 руб."
+    ],
+    "total": "12000 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/complex_full_prada/",
+    "category": "Обувь",
+    "width": 1440,
+    "height": 1440
+  },
+  {
+    "id": 9,
+    "slug": "restavracia_i_pokraska_sumki_valentino",
+    "brand": "Valentino",
+    "service": "Реставрация сумки",
+    "image": "assets/case-IMG-9174.png",
+    "catalogPrice": "10500 руб.",
+    "description": "",
+    "tasks": [
+      "Реставрация и покраска кожи сумки до 25 см - 8000 руб.",
+      "Чистка подклада - 2500 руб."
+    ],
+    "total": "10500 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/restavracia_i_pokraska_sumki_valentino/",
+    "category": "Сумки и аксессуары",
+    "width": 1280,
+    "height": 1280
+  },
+  {
+    "id": 10,
+    "slug": "chistka_korpusa_sumki_hacquemus",
+    "brand": "Jacquemus",
+    "service": "Чистка корпуса сумки",
+    "image": "assets/case-IMG-8164.png",
+    "catalogPrice": "5500 руб.",
+    "description": "",
+    "tasks": [
+      "Чистка корпуса сумки до 25см - 3000 руб.",
+      "Чистка подклада - 2500 руб."
+    ],
+    "total": "5500 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/chistka_korpusa_sumki_hacquemus/",
+    "category": "Сумки и аксессуары",
+    "width": 1280,
+    "height": 1280
+  },
+  {
+    "id": 11,
+    "slug": "matovaya_profilaktika_podoshvi_maison_margiela",
+    "brand": "Maison Margiela",
+    "service": "Профилактика подошвы",
+    "image": "assets/case-IMG-7818.jpg",
+    "catalogPrice": "2500 руб.",
+    "description": "",
+    "tasks": [
+      "Матовая профилактика подошвы - 2500 руб."
+    ],
+    "total": "2500 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/matovaya_profilaktika_podoshvi_maison_margiela/",
+    "category": "Обувь",
+    "width": 1039,
+    "height": 1039
+  },
+  {
+    "id": 12,
+    "slug": "glyancevaya_profilaktika_podoshvi_christian_louboutin",
+    "brand": "Christian Louboutin",
+    "service": "Профилактика подошвы",
+    "image": "assets/case-IMG-8393.png",
+    "catalogPrice": "3500 руб.",
+    "description": "",
+    "tasks": [
+      "Глянцевая профилактика подошвы - 3500 руб."
+    ],
+    "total": "3500 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/glyancevaya_profilaktika_podoshvi_christian_louboutin/",
+    "category": "Обувь",
+    "width": 1280,
+    "height": 1280
+  },
+  {
+    "id": 13,
+    "slug": "restavracia_i_pokraska_kozhi_louis_vuitton",
+    "brand": "Louis Vuitton",
+    "service": "Реставрация сумки",
+    "image": "assets/case-IMG-1808.jpg",
+    "catalogPrice": "17000 руб.",
+    "description": "",
+    "tasks": [
+      "Реставрация и покраска кожи сумки более 25см - 12000 руб.",
+      "Восстановление урезов двух односторонних ручек - 5000 руб."
+    ],
+    "total": "17000 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/restavracia_i_pokraska_kozhi_louis_vuitton/",
+    "category": "Сумки и аксессуары",
+    "width": 2400,
+    "height": 2400
+  },
+  {
+    "id": 14,
+    "slug": "chistka_obuvi_louis_vuitton",
+    "brand": "Louis Vuitton",
+    "service": "Чистка обуви",
+    "image": "assets/case-IMG_7832.png",
+    "catalogPrice": "4000 руб.",
+    "description": "",
+    "tasks": [
+      "Чистка Full - 4000 руб."
+    ],
+    "total": "4000 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/chistka_obuvi_louis_vuitton/",
+    "category": "Обувь",
+    "width": 1280,
+    "height": 1280
+  },
+  {
+    "id": 15,
+    "slug": "zamena_podoshvi_loro_piana_2",
+    "brand": "Loro Piana",
+    "service": "Замена подошвы",
+    "image": "assets/case-IMG_7504.jpg",
+    "catalogPrice": "12 000 руб.",
+    "description": "",
+    "tasks": [
+      "Комплекс Full - 7000 руб.",
+      "Замена подошвы - 12000 руб."
+    ],
+    "total": "19000 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/zamena_podoshvi_loro_piana_2/",
+    "category": "Обувь",
+    "width": 1888,
+    "height": 1888
+  },
+  {
+    "id": 16,
+    "slug": "chistka_ugg_ugg_2",
+    "brand": "UGG",
+    "service": "Чистка UGG",
+    "image": "assets/case-IMG_7487.png",
+    "catalogPrice": "5000 руб.",
+    "description": "",
+    "tasks": [
+      "Стоимость услуги - 5000 руб."
+    ],
+    "total": "5003 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/chistka_ugg_ugg_2/",
+    "category": "Обувь",
+    "width": 1280,
+    "height": 1280
+  },
+  {
+    "id": 17,
+    "slug": "complex_full_brunello_cucinelli",
+    "brand": "Brunello Cucinelli",
+    "service": "Чистка + покраска",
+    "image": "assets/case-IMG_7376.png",
+    "catalogPrice": "7000 руб.",
+    "description": "",
+    "tasks": [
+      "Комплекс Full - 7000 руб."
+    ],
+    "total": "7000 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/complex_full_brunello_cucinelli/",
+    "category": "Обувь",
+    "width": 1280,
+    "height": 1280
+  },
+  {
+    "id": 18,
+    "slug": "chistka_obuvi_etnies",
+    "brand": "Etnies",
+    "service": "Чистка обуви",
+    "image": "assets/case-IMG_7154.png",
+    "catalogPrice": "4000 руб.",
+    "description": "",
+    "tasks": [
+      "Чистка FULL - 4000 руб."
+    ],
+    "total": "4000 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/chistka_obuvi_etnies/",
+    "category": "Обувь",
+    "width": 1280,
+    "height": 1280
+  },
+  {
+    "id": 19,
+    "slug": "chistka_ugg_3",
+    "brand": "UGG",
+    "service": "Чистка UGG",
+    "image": "assets/case-IMG_7103.png",
+    "catalogPrice": "5000 руб.",
+    "description": "",
+    "tasks": [
+      "Стоимость услуги - 5000 руб."
+    ],
+    "total": "5000 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/chistka_ugg_3/",
+    "category": "Обувь",
+    "width": 1280,
+    "height": 1280
+  },
+  {
+    "id": 20,
+    "slug": "complex_full_louis_vuitton",
+    "brand": "Louis Vuitton",
+    "service": "Чистка + покраска",
+    "image": "assets/case-IMG_7018.jpg",
+    "catalogPrice": "7000 руб.",
+    "description": "",
+    "tasks": [
+      "Комплекс Full - 7000 руб."
+    ],
+    "total": "7003 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/complex_full_louis_vuitton/",
+    "category": "Обувь",
+    "width": 2400,
+    "height": 2400
+  },
+  {
+    "id": 21,
+    "slug": "complex_full_gucci_2",
+    "brand": "Gucci",
+    "service": "Чистка + покраска",
+    "image": "assets/case-IMG_6790.png",
+    "catalogPrice": "7000 руб.",
+    "description": "",
+    "tasks": [
+      "Комплекс Full - 7000 руб."
+    ],
+    "total": "7000 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/complex_full_gucci_2/",
+    "category": "Обувь",
+    "width": 1280,
+    "height": 1280
+  },
+  {
+    "id": 22,
+    "slug": "complex_full_stefano_ricci",
+    "brand": "Stefano Ricci",
+    "service": "Чистка + покраска",
+    "image": "assets/case-IMG_9916.png",
+    "catalogPrice": "7000 руб.",
+    "description": "",
+    "tasks": [
+      "Комплекс Full - 7000 руб."
+    ],
+    "total": "7000 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/complex_full_stefano_ricci/",
+    "category": "Обувь",
+    "width": 1280,
+    "height": 1280
+  },
+  {
+    "id": 23,
+    "slug": "complex_full_louis_vuitton_2",
+    "brand": "Louis Vuitton",
+    "service": "Чистка + покраска",
+    "image": "assets/case-IMG_9715.png",
+    "catalogPrice": "7000 руб.",
+    "description": "",
+    "tasks": [
+      "Комплекс Full - 7000 руб."
+    ],
+    "total": "7000 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/complex_full_louis_vuitton_2/",
+    "category": "Обувь",
+    "width": 1280,
+    "height": 1280
+  },
+  {
+    "id": 24,
+    "slug": "chistka_obuvi_iro",
+    "brand": "Iro",
+    "service": "Чистка обуви",
+    "image": "assets/case-IMG_9082.jpg",
+    "catalogPrice": "4000 руб.",
+    "description": "",
+    "tasks": [
+      "Чистка Full - 4000 руб."
+    ],
+    "total": "4000 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/chistka_obuvi_iro/",
+    "category": "Обувь",
+    "width": 1280,
+    "height": 1280
+  },
+  {
+    "id": 25,
+    "slug": "complex_full_off_white",
+    "brand": "Off-White",
+    "service": "Чистка + покраска",
+    "image": "assets/case-IMG_8911.jpg",
+    "catalogPrice": "7000 руб.",
+    "description": "",
+    "tasks": [
+      "Комплекс Full - 7000 руб."
+    ],
+    "total": "7000 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/complex_full_off_white/",
+    "category": "Обувь",
+    "width": 1280,
+    "height": 1280
+  },
+  {
+    "id": 26,
+    "slug": "chistka_obuvi_new_balance",
+    "brand": "New Balance",
+    "service": "Чистка обуви",
+    "image": "assets/case-IMG_8460.png",
+    "catalogPrice": "4000 руб.",
+    "description": "",
+    "tasks": [
+      "Чистка Full - 4000 руб."
+    ],
+    "total": "4000 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/chistka_obuvi_new_balance/",
+    "category": "Обувь",
+    "width": 1280,
+    "height": 1280
+  },
+  {
+    "id": 27,
+    "slug": "zamena_podoshvi_loro_piana_3",
+    "brand": "Loro Piana",
+    "service": "Замена подошвы",
+    "image": "assets/case-IMG_8221.jpg",
+    "catalogPrice": "12000 руб.",
+    "description": "",
+    "tasks": [
+      "Комплекс Full - 7000 руб.",
+      "Замена подошвы - 12000 руб."
+    ],
+    "total": "19000 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/zamena_podoshvi_loro_piana_3/",
+    "category": "Обувь",
+    "width": 1888,
+    "height": 1888
+  },
+  {
+    "id": 28,
+    "slug": "zamena_podoshvi_loro_piana_4",
+    "brand": "Loro Piana",
+    "service": "Замена подошвы",
+    "image": "assets/case-IMG_8139.png",
+    "catalogPrice": "12000 руб.",
+    "description": "",
+    "tasks": [
+      "Комплекс Full - 7000 руб.",
+      "Замена подошвы - 12000 руб."
+    ],
+    "total": "19000 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/zamena_podoshvi_loro_piana_4/",
+    "category": "Обувь",
+    "width": 1280,
+    "height": 1280
+  },
+  {
+    "id": 29,
+    "slug": "chistka_ugg_4",
+    "brand": "UGG",
+    "service": "Чистка UGG",
+    "image": "assets/case-IMG_8073.png",
+    "catalogPrice": "5000 руб.",
+    "description": "",
+    "tasks": [
+      "Стоимость услуги - 5000 руб."
+    ],
+    "total": "5000 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/chistka_ugg_4/",
+    "category": "Обувь",
+    "width": 1280,
+    "height": 1280
+  },
+  {
+    "id": 30,
+    "slug": "zamena_podoshvi_loro_piana_5",
+    "brand": "Loro Piana",
+    "service": "Замена подошвы",
+    "image": "assets/case-IMG_7905.png",
+    "catalogPrice": "12000 руб.",
+    "description": "",
+    "tasks": [
+      "Комплекс Full - 7000 руб.",
+      "Замена подошвы - 12000 руб."
+    ],
+    "total": "19000 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/zamena_podoshvi_loro_piana_5/",
+    "category": "Обувь",
+    "width": 1280,
+    "height": 1280
+  },
+  {
+    "id": 31,
+    "slug": "complex_full_tods",
+    "brand": "Tods",
+    "service": "Чистка + покраска",
+    "image": "assets/case-IMG_4906.png",
+    "catalogPrice": "7000 руб.",
+    "description": "",
+    "tasks": [
+      "Комплекс Full - 7000 руб."
+    ],
+    "total": "7000 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/complex_full_tods/",
+    "category": "Обувь",
+    "width": 1280,
+    "height": 1280
+  },
+  {
+    "id": 32,
+    "slug": "complex_full_ermenegildo_zegna",
+    "brand": "Ermenegildo Zegna",
+    "service": "Чистка + покраска",
+    "image": "assets/case-IMG_4882.png",
+    "catalogPrice": "8000 руб.",
+    "description": "",
+    "tasks": [
+      "Комплекс Full - 7000 руб.",
+      "Доп. Цвет при покраске - 1000 руб."
+    ],
+    "total": "8000 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/complex_full_ermenegildo_zegna/",
+    "category": "Обувь",
+    "width": 1280,
+    "height": 1280
+  },
+  {
+    "id": 33,
+    "slug": "complex_full_brunello_cucinelli_2",
+    "brand": "Brunello Cucinelli",
+    "service": "Чистка + покраска",
+    "image": "assets/case-IMG_4584.png",
+    "catalogPrice": "8000 руб.",
+    "description": "",
+    "tasks": [
+      "Комплекс Full - 7000 руб.",
+      "Доп. Цвет при покраске - 1000 руб."
+    ],
+    "total": "8000 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/complex_full_brunello_cucinelli_2/",
+    "category": "Обувь",
+    "width": 1280,
+    "height": 1280
+  },
+  {
+    "id": 34,
+    "slug": "complex_full_ekonika",
+    "brand": "Ekonika",
+    "service": "Чистка + покраска",
+    "image": "assets/case-IMG_4539.jpg",
+    "catalogPrice": "7000 руб.",
+    "description": "",
+    "tasks": [
+      "Комплекс Full - 7000 руб."
+    ],
+    "total": "7000 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/complex_full_ekonika/",
+    "category": "Обувь",
+    "width": 2400,
+    "height": 2400
+  },
+  {
+    "id": 35,
+    "slug": "restavracia_micov_louis_vuitton",
+    "brand": "Louis Vuitton",
+    "service": "Реставрация мысов",
+    "image": "assets/case-IMG_4327.jpg",
+    "catalogPrice": "4000 руб.",
+    "description": "",
+    "tasks": [
+      "Реставрация мысов - 4000 руб."
+    ],
+    "total": "4000 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/restavracia_micov_louis_vuitton/",
+    "category": "Обувь",
+    "width": 1280,
+    "height": 1280
+  },
+  {
+    "id": 36,
+    "slug": "chistka_obuvi_louis_vuitton_2",
+    "brand": "Louis Vuitton",
+    "service": "Чистка обуви",
+    "image": "assets/case-IMG_3950.png",
+    "catalogPrice": "4000 руб.",
+    "description": "",
+    "tasks": [
+      "Чистка Full - 4000 руб."
+    ],
+    "total": "4000 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/chistka_obuvi_louis_vuitton_2/",
+    "category": "Обувь",
+    "width": 1280,
+    "height": 1280
+  },
+  {
+    "id": 37,
+    "slug": "pokraska_sumki_ralph_laurent",
+    "brand": "Ralph Laurent",
+    "service": "Покраска сумки",
+    "image": "assets/case-IMG_3711.jpg",
+    "catalogPrice": "20000 руб.",
+    "description": "",
+    "tasks": [
+      "Покраска сумки - 12000 руб.",
+      "Доп. цвета при покраске - 8000 руб."
+    ],
+    "total": "20000 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/pokraska_sumki_ralph_laurent/",
+    "category": "Сумки и аксессуары",
+    "width": 1280,
+    "height": 1280
+  },
+  {
+    "id": 38,
+    "slug": "complex_premium_gianvito_rossi",
+    "brand": "Gianvito Rossi",
+    "service": "Чистка + покраска",
+    "image": "assets/case-IMG_2976.png",
+    "catalogPrice": "8000 руб.",
+    "description": "",
+    "tasks": [
+      "Комплекс Premium - 8000 руб."
+    ],
+    "total": "8000 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/complex_premium_gianvito_rossi/",
+    "category": "Обувь",
+    "width": 1280,
+    "height": 1280
+  },
+  {
+    "id": 39,
+    "slug": "complex_full_gucci_3",
+    "brand": "Gucci",
+    "service": "Чистка + покраска",
+    "image": "assets/case-IMG_6789.png",
+    "catalogPrice": "7000 руб.",
+    "description": "",
+    "tasks": [
+      "Комплекс Full - 7000 руб."
+    ],
+    "total": "7000 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/complex_full_gucci_3/",
+    "category": "Обувь",
+    "width": 1280,
+    "height": 1280
+  },
+  {
+    "id": 40,
+    "slug": "chistka_obuvi_loro_piana",
+    "brand": "Loro Piana",
+    "service": "Чистка обуви",
+    "image": "assets/case-IMG_6758.jpg",
+    "catalogPrice": "4000 руб.",
+    "description": "",
+    "tasks": [],
+    "total": "4000 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/chistka_obuvi_loro_piana/",
+    "category": "Обувь",
+    "width": 1888,
+    "height": 1888
+  },
+  {
+    "id": 41,
+    "slug": "complex_premium_geox",
+    "brand": "Geox",
+    "service": "Чистка + покраска",
+    "image": "assets/case-IMG_6613.png",
+    "catalogPrice": "8000 руб.",
+    "description": "",
+    "tasks": [
+      "Комплекс Premium - 8000 руб."
+    ],
+    "total": "8000 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/complex_premium_geox/",
+    "category": "Обувь",
+    "width": 1280,
+    "height": 1280
+  },
+  {
+    "id": 42,
+    "slug": "chistka_obuvi_loro_piana_2",
+    "brand": "Loro Piana",
+    "service": "Чистка обуви",
+    "image": "assets/case-IMG_6606.png",
+    "catalogPrice": "5000 руб.",
+    "description": "",
+    "tasks": [
+      "Чистка Premium - 5000 руб."
+    ],
+    "total": "5000 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/chistka_obuvi_loro_piana_2/",
+    "category": "Обувь",
+    "width": 1280,
+    "height": 1280
+  },
+  {
+    "id": 43,
+    "slug": "complex_full_gucci_4",
+    "brand": "Gucci",
+    "service": "Чистка + покраска",
+    "image": "assets/case-IMG_6573.jpg",
+    "catalogPrice": "7000 руб.",
+    "description": "",
+    "tasks": [
+      "Комплекс Full - 7000 руб."
+    ],
+    "total": "7000 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/complex_full_gucci_4/",
+    "category": "Обувь",
+    "width": 2400,
+    "height": 2400
+  },
+  {
+    "id": 44,
+    "slug": "chistka_obuvi_loro_piana_3",
+    "brand": "Loro Piana",
+    "service": "Чистка обуви",
+    "image": "assets/case-IMG_6572.jpg",
+    "catalogPrice": "4000 руб.",
+    "description": "",
+    "tasks": [
+      "Чистка Full - 4000 руб."
+    ],
+    "total": "4000 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/chistka_obuvi_loro_piana_3/",
+    "category": "Обувь",
+    "width": 1440,
+    "height": 1440
+  },
+  {
+    "id": 45,
+    "slug": "chistka_obuvi_loro_piana_4",
+    "brand": "Loro Piana",
+    "service": "Чистка обуви",
+    "image": "assets/case-IMG_6571.jpg",
+    "catalogPrice": "4000 руб.",
+    "description": "",
+    "tasks": [
+      "Чистка Full - 4000 руб."
+    ],
+    "total": "4000 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/chistka_obuvi_loro_piana_4/",
+    "category": "Обувь",
+    "width": 2400,
+    "height": 2400
+  },
+  {
+    "id": 46,
+    "slug": "complex_full_louis_vuitton_3",
+    "brand": "Louis Vuitton",
+    "service": "Чистка + покраска",
+    "image": "assets/case-IMG_6570.jpg",
+    "catalogPrice": "7000 руб.",
+    "description": "",
+    "tasks": [
+      "Комплекс Full - 7000 руб."
+    ],
+    "total": "7000 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/complex_full_louis_vuitton_3/",
+    "category": "Обувь",
+    "width": 2400,
+    "height": 2400
+  },
+  {
+    "id": 47,
+    "slug": "chistka_obuvi_loro_piana_5",
+    "brand": "Loro Piana",
+    "service": "Чистка обуви",
+    "image": "assets/case-IMG_6568.jpg",
+    "catalogPrice": "4000 руб.",
+    "description": "",
+    "tasks": [
+      "Чистка FULL - 4000 руб."
+    ],
+    "total": "4000 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/chistka_obuvi_loro_piana_5/",
+    "category": "Обувь",
+    "width": 2400,
+    "height": 2400
+  },
+  {
+    "id": 48,
+    "slug": "complex_full_santoni_2",
+    "brand": "Santoni",
+    "service": "Чистка + покраска",
+    "image": "assets/case-IMG_6525.png",
+    "catalogPrice": "7000 руб.",
+    "description": "",
+    "tasks": [
+      "Комплекс Full - 7000 руб."
+    ],
+    "total": "7000 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/complex_full_santoni_2/",
+    "category": "Обувь",
+    "width": 1280,
+    "height": 1280
+  },
+  {
+    "id": 49,
+    "slug": "complex_full_carlo_pazolini",
+    "brand": "Carlo Pazolini",
+    "service": "Чистка + покраска",
+    "image": "assets/case-IMG_6185.png",
+    "catalogPrice": "7000 руб.",
+    "description": "",
+    "tasks": [
+      "Комплекс Full - 7000 руб."
+    ],
+    "total": "7000 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/complex_full_carlo_pazolini/",
+    "category": "Обувь",
+    "width": 1280,
+    "height": 1280
+  },
+  {
+    "id": 50,
+    "slug": "complex_full_nike",
+    "brand": "Nike",
+    "service": "Чистка + покраска",
+    "image": "assets/case-IMG_6049.jpg",
+    "catalogPrice": "9000 руб.",
+    "description": "",
+    "tasks": [
+      "Комплекс Full - 7000 руб.",
+      "Два доп. цвета - 2000 руб."
+    ],
+    "total": "9000 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/complex_full_nike/",
+    "category": "Обувь",
+    "width": 1280,
+    "height": 1280
+  },
+  {
+    "id": 51,
+    "slug": "complex_full_lanvin",
+    "brand": "Lanvin",
+    "service": "Чистка + покраска",
+    "image": "assets/case-IMG_5464.png",
+    "catalogPrice": "8000 руб.",
+    "description": "",
+    "tasks": [
+      "Комплекс Full - 7000 руб.",
+      "Доп. цвет - 1000 руб."
+    ],
+    "total": "8000 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/complex_full_lanvin/",
+    "category": "Обувь",
+    "width": 1280,
+    "height": 1280
+  },
+  {
+    "id": 52,
+    "slug": "chistka_obuvi_chanel",
+    "brand": "Chanel",
+    "service": "Чистка обуви",
+    "image": "assets/case-IMG_5349.png",
+    "catalogPrice": "4000 руб.",
+    "description": "",
+    "tasks": [
+      "Чистка FULL - 4000 руб."
+    ],
+    "total": "4000 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/chistka_obuvi_chanel/",
+    "category": "Обувь",
+    "width": 1280,
+    "height": 1280
+  },
+  {
+    "id": 53,
+    "slug": "complex_full_celine",
+    "brand": "Celine",
+    "service": "Чистка + покраска",
+    "image": "assets/case-IMG_2460.jpg",
+    "catalogPrice": "7000 руб.",
+    "description": "",
+    "tasks": [
+      "Комплекс Full - 7000 руб."
+    ],
+    "total": "7000 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/complex_full_celine/",
+    "category": "Обувь",
+    "width": 1440,
+    "height": 1440
+  },
+  {
+    "id": 54,
+    "slug": "complex_full_gucci_5",
+    "brand": "Gucci",
+    "service": "Чистка + покраска",
+    "image": "assets/case-IMG_2459.jpg",
+    "catalogPrice": "7000 руб.",
+    "description": "",
+    "tasks": [
+      "Комплекс Full - 7000 руб."
+    ],
+    "total": "7000 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/complex_full_gucci_5/",
+    "category": "Обувь",
+    "width": 1440,
+    "height": 1440
+  },
+  {
+    "id": 55,
+    "slug": "pokraska_sumki_chanel",
+    "brand": "Chanel",
+    "service": "Покраска сумки",
+    "image": "assets/case-IMG_2457.jpg",
+    "catalogPrice": "15000 руб.",
+    "description": "",
+    "tasks": [
+      "Покраска сумки - 12000 руб.",
+      "Ремонт ремешка - 3000 руб."
+    ],
+    "total": "15000 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/pokraska_sumki_chanel/",
+    "category": "Сумки и аксессуары",
+    "width": 1440,
+    "height": 1440
+  },
+  {
+    "id": 56,
+    "slug": "chistka_obuvi_louis_vuitton_3",
+    "brand": "Louis Vuitton",
+    "service": "Чистка обуви",
+    "image": "assets/case-IMG_2455.jpg",
+    "catalogPrice": "4000 руб.",
+    "description": "",
+    "tasks": [
+      "Чистка FULL - 4000 руб."
+    ],
+    "total": "4000 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/chistka_obuvi_louis_vuitton_3/",
+    "category": "Обувь",
+    "width": 1440,
+    "height": 1440
+  },
+  {
+    "id": 57,
+    "slug": "pokraska_sumki_michael_kors",
+    "brand": "Michael Kors",
+    "service": "Покраска сумки",
+    "image": "assets/case-IMG_2453.jpg",
+    "catalogPrice": "12000 руб.",
+    "description": "",
+    "tasks": [
+      "Покраска сумки - 12000 руб."
+    ],
+    "total": "12000 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/pokraska_sumki_michael_kors/",
+    "category": "Сумки и аксессуары",
+    "width": 1440,
+    "height": 1440
+  },
+  {
+    "id": 58,
+    "slug": "complex_full_louis_vuitton_4",
+    "brand": "Louis Vuitton",
+    "service": "Чистка + покраска",
+    "image": "assets/case-IMG_2452.jpg",
+    "catalogPrice": "8000 руб.",
+    "description": "",
+    "tasks": [
+      "Комплекс Full - 7000 руб.",
+      "Доп. Цвет - 1000 руб."
+    ],
+    "total": "8000 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/complex_full_louis_vuitton_4/",
+    "category": "Обувь",
+    "width": 1440,
+    "height": 1440
+  },
+  {
+    "id": 59,
+    "slug": "chistka_obuvi_nike",
+    "brand": "Nike",
+    "service": "Чистка обуви",
+    "image": "assets/case-IMG_2481.jpg",
+    "catalogPrice": "4000 руб.",
+    "description": "",
+    "tasks": [
+      "Чистка FULL - 4000 руб."
+    ],
+    "total": "4000 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/chistka_obuvi_nike/",
+    "category": "Обувь",
+    "width": 1440,
+    "height": 1440
+  },
+  {
+    "id": 60,
+    "slug": "complex_full_le_silla",
+    "brand": "Le Silla",
+    "service": "Чистка + покраска",
+    "image": "assets/case-IMG_2478.jpg",
+    "catalogPrice": "7000 руб.",
+    "description": "",
+    "tasks": [
+      "Комплекс Full - 7000 руб."
+    ],
+    "total": "7000 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/complex_full_le_silla/",
+    "category": "Обувь",
+    "width": 1440,
+    "height": 1440
+  },
+  {
+    "id": 61,
+    "slug": "chistka_ugg_5",
+    "brand": "UGG",
+    "service": "Чистка UGG",
+    "image": "assets/case-IMG_2476.jpg",
+    "catalogPrice": "5000 руб.",
+    "description": "",
+    "tasks": [
+      "Стоимость услуги - 5000 руб."
+    ],
+    "total": "4998 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/chistka_ugg_5/",
+    "category": "Обувь",
+    "width": 1440,
+    "height": 1440
+  },
+  {
+    "id": 62,
+    "slug": "chistka_obuvi_loro_piana_6",
+    "brand": "Loro Piana",
+    "service": "Чистка обуви",
+    "image": "assets/case-IMG_2475.jpg",
+    "catalogPrice": "4000 руб.",
+    "description": "",
+    "tasks": [
+      "Чистка FULL - 4000 руб."
+    ],
+    "total": "4000 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/chistka_obuvi_loro_piana_6/",
+    "category": "Обувь",
+    "width": 1440,
+    "height": 1440
+  },
+  {
+    "id": 63,
+    "slug": "complex_premium_gucci",
+    "brand": "Gucci",
+    "service": "Чистка + покраска",
+    "image": "assets/case-IMG_2473.jpg",
+    "catalogPrice": "8000 руб.",
+    "description": "",
+    "tasks": [
+      "Комплекс Premium - 8000 руб."
+    ],
+    "total": "8000 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/complex_premium_gucci/",
+    "category": "Обувь",
+    "width": 1440,
+    "height": 1440
+  },
+  {
+    "id": 64,
+    "slug": "complex_full_ekonika_2",
+    "brand": "Ekonika",
+    "service": "Чистка + покраска",
+    "image": "assets/case-IMG_2471.jpg",
+    "catalogPrice": "7000 руб.",
+    "description": "",
+    "tasks": [
+      "Комплекс Full - 7000 руб."
+    ],
+    "total": "7000 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/complex_full_ekonika_2/",
+    "category": "Обувь",
+    "width": 1440,
+    "height": 1440
+  },
+  {
+    "id": 65,
+    "slug": "complex_full_bottega_veneta",
+    "brand": "Bottega Veneta",
+    "service": "Чистка + покраска",
+    "image": "assets/case-IMG_2470.jpg",
+    "catalogPrice": "8000 руб.",
+    "description": "",
+    "tasks": [
+      "Комплекс Full - 7000 руб.",
+      "Доп. Цвет - 1000 руб."
+    ],
+    "total": "8000 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/complex_full_bottega_veneta/",
+    "category": "Обувь",
+    "width": 1440,
+    "height": 1440
+  },
+  {
+    "id": 66,
+    "slug": "complex_full_premiata",
+    "brand": "Premiata",
+    "service": "Чистка + покраска",
+    "image": "assets/case-IMG_2469.jpg",
+    "catalogPrice": "7000 руб.",
+    "description": "",
+    "tasks": [
+      "Комплекс Full - 7000 руб."
+    ],
+    "total": "7000 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/complex_full_premiata/",
+    "category": "Обувь",
+    "width": 1440,
+    "height": 1440
+  },
+  {
+    "id": 67,
+    "slug": "complex_full_gucci_6",
+    "brand": "Gucci",
+    "service": "Чистка + покраска",
+    "image": "assets/case-IMG_2468.jpg",
+    "catalogPrice": "7000 руб.",
+    "description": "",
+    "tasks": [
+      "Комплекс Full - 7000 руб."
+    ],
+    "total": "7000 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/complex_full_gucci_6/",
+    "category": "Обувь",
+    "width": 1280,
+    "height": 1280
+  },
+  {
+    "id": 68,
+    "slug": "complex_full_ekonika_3",
+    "brand": "Ekonika",
+    "service": "Чистка + покраска",
+    "image": "assets/case-IMG_2467.jpg",
+    "catalogPrice": "7000 руб.",
+    "description": "",
+    "tasks": [
+      "Комплекс Full - 7000 руб."
+    ],
+    "total": "7000 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/complex_full_ekonika_3/",
+    "category": "Обувь",
+    "width": 1440,
+    "height": 1440
+  },
+  {
+    "id": 69,
+    "slug": "chistka_obuvi_timberland",
+    "brand": "Timberland",
+    "service": "Чистка обуви",
+    "image": "assets/case-IMG_1785.png",
+    "catalogPrice": "5000 руб.",
+    "description": "",
+    "tasks": [
+      "Чистка Premium - 5000 руб."
+    ],
+    "total": "5000 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/chistka_obuvi_timberland/",
+    "category": "Обувь",
+    "width": 1280,
+    "height": 1280
+  },
+  {
+    "id": 70,
+    "slug": "chistka_ugg_6",
+    "brand": "UGG",
+    "service": "Чистка UGG",
+    "image": "assets/case-IMG_1341.png",
+    "catalogPrice": "5000 руб.",
+    "description": "",
+    "tasks": [
+      "Стоимость услуги - 5000 руб."
+    ],
+    "total": "5000 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/chistka_ugg_6/",
+    "category": "Обувь",
+    "width": 1280,
+    "height": 1280
+  },
+  {
+    "id": 71,
+    "slug": "complex_premium_versace",
+    "brand": "Versace",
+    "service": "Чистка + покраска",
+    "image": "assets/case-IMG_1258.jpg",
+    "catalogPrice": "8000 руб.",
+    "description": "",
+    "tasks": [
+      "Комплекс Premium - 8000 руб."
+    ],
+    "total": "8000 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/complex_premium_versace/",
+    "category": "Обувь",
+    "width": 2400,
+    "height": 2400
+  },
+  {
+    "id": 72,
+    "slug": "zamena_podoshvi_loro_piana_6",
+    "brand": "Loro Piana",
+    "service": "Замена подошвы",
+    "image": "assets/case-IMG_1174.jpg",
+    "catalogPrice": "20000 руб.",
+    "description": "",
+    "tasks": [
+      "Комплекс Premium 8000 руб.",
+      "Замена подошвы 12000 руб."
+    ],
+    "total": "20000 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/zamena_podoshvi_loro_piana_6/",
+    "category": "Обувь",
+    "width": 2400,
+    "height": 2400
+  },
+  {
+    "id": 73,
+    "slug": "pokraska_koshelka_louis_vuitton",
+    "brand": "Louis Vuitton",
+    "service": "Покраска кошелька",
+    "image": "assets/case-IMG_0632.jpg",
+    "catalogPrice": "6000 руб.",
+    "description": "",
+    "tasks": [
+      "Покраска кошелька - 6000 руб."
+    ],
+    "total": "6000 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/pokraska_koshelka_louis_vuitton/",
+    "category": "Сумки и аксессуары",
+    "width": 2400,
+    "height": 2400
+  },
+  {
+    "id": 74,
+    "slug": "chistka_obuvi_christian_dior",
+    "brand": "Christian Dior",
+    "service": "Чистка обуви",
+    "image": "assets/case-IMG_2450.jpg",
+    "catalogPrice": "4000 руб.",
+    "description": "",
+    "tasks": [
+      "Чистка Full - 4000 руб."
+    ],
+    "total": "4000 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/chistka_obuvi_christian_dior/",
+    "category": "Обувь",
+    "width": 1440,
+    "height": 1440
+  },
+  {
+    "id": 75,
+    "slug": "complex_premium_prada",
+    "brand": "Prada",
+    "service": "Чистка + покраска",
+    "image": "assets/case-IMG_2449-1.jpg",
+    "catalogPrice": "11000 руб.",
+    "description": "",
+    "tasks": [
+      "Комплекс Premium - 8000 руб.",
+      "Проклейка подошвы - 3000 руб."
+    ],
+    "total": "11000 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/complex_premium_prada/",
+    "category": "Обувь",
+    "width": 1440,
+    "height": 1440
+  },
+  {
+    "id": 76,
+    "slug": "complex_premium_new_balance",
+    "brand": "New Balance",
+    "service": "Чистка + покраска",
+    "image": "assets/case-IMG_2448.jpg",
+    "catalogPrice": "7000 руб.",
+    "description": "",
+    "tasks": [
+      "Комплекс Premium - 7000 руб."
+    ],
+    "total": "7000 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/complex_premium_new_balance/",
+    "category": "Обувь",
+    "width": 1440,
+    "height": 1440
+  },
+  {
+    "id": 77,
+    "slug": "chistka_obuvi_fendi",
+    "brand": "Fendi",
+    "service": "Чистка обуви",
+    "image": "assets/case-IMG_2447-1.jpg",
+    "catalogPrice": "4000 руб.",
+    "description": "",
+    "tasks": [
+      "Чистка Full - 4000 руб."
+    ],
+    "total": "4000 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/chistka_obuvi_fendi/",
+    "category": "Обувь",
+    "width": 1280,
+    "height": 1280
+  },
+  {
+    "id": 79,
+    "slug": "complex_full_dior_2",
+    "brand": "Dior",
+    "service": "Чистка + покраска",
+    "image": "assets/case-IMG_2388.jpg",
+    "catalogPrice": "7000 руб.",
+    "description": "",
+    "tasks": [
+      "Комплекс Full - 7000 руб."
+    ],
+    "total": "7000 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/complex_full_dior_2/",
+    "category": "Обувь",
+    "width": 2400,
+    "height": 2400
+  },
+  {
+    "id": 80,
+    "slug": "chistka_obuvi_loro_piana_7",
+    "brand": "Loro Piana",
+    "service": "Чистка обуви",
+    "image": "assets/case-IMG_2387.png",
+    "catalogPrice": "4000 руб.",
+    "description": "",
+    "tasks": [
+      "Чистка Full - 4000 руб."
+    ],
+    "total": "4000 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/chistka_obuvi_loro_piana_7/",
+    "category": "Обувь",
+    "width": 1280,
+    "height": 1280
+  },
+  {
+    "id": 81,
+    "slug": "complex_premium_herring",
+    "brand": "Herring",
+    "service": "Чистка + покраска",
+    "image": "assets/case-IMG_1970.jpg",
+    "catalogPrice": "8000 руб.",
+    "description": "",
+    "tasks": [
+      "Комплекс Premium - 8000 руб."
+    ],
+    "total": "8000 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/complex_premium_herring/",
+    "category": "Обувь",
+    "width": 2400,
+    "height": 2400
+  },
+  {
+    "id": 82,
+    "slug": "pokraska_sumki_louis_vuitton",
+    "brand": "Louis Vuitton",
+    "service": "Покраска сумки",
+    "image": "assets/case-IMG_1808.jpg",
+    "catalogPrice": "12000 руб.",
+    "description": "",
+    "tasks": [
+      "Покраска сумки - 12000 руб."
+    ],
+    "total": "12000 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/pokraska_sumki_louis_vuitton/",
+    "category": "Сумки и аксессуары",
+    "width": 2400,
+    "height": 2400
+  },
+  {
+    "id": 83,
+    "slug": "chistka_obuvi_loro_piana_8",
+    "brand": "Loro Piana",
+    "service": "Чистка обуви",
+    "image": "assets/case-IMG_0231.jpg",
+    "catalogPrice": "5000 руб.",
+    "description": "",
+    "tasks": [
+      "Чистка Premium - 5000 руб."
+    ],
+    "total": "5000 руб.",
+    "gallery": [],
+    "source": "https://bleach.moscow/chistka_obuvi_loro_piana_8/",
+    "category": "Обувь",
+    "width": 1280,
+    "height": 1280
+  }
+]

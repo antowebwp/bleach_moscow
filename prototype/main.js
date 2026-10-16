@@ -1,20 +1,8 @@
 'use strict';
-const menu=document.querySelector('#mobile-menu'), menuToggle=document.querySelector('.menu-toggle');
-function closeMenu(){menu.hidden=true;menuToggle.setAttribute('aria-expanded','false');menuToggle.setAttribute('aria-label','Открыть меню');}
-menuToggle.addEventListener('click',()=>{const open=menu.hidden;menu.hidden=!open;menuToggle.setAttribute('aria-expanded',String(open));menuToggle.setAttribute('aria-label',open?'Закрыть меню':'Открыть меню');});
-menu.querySelectorAll('a').forEach(a=>a.addEventListener('click',closeMenu));
-document.addEventListener('keydown',e=>{if(e.key==='Escape'&&!menu.hidden){closeMenu();menuToggle.focus();}});
-document.addEventListener('click',e=>{if(!menu.hidden&&!menu.contains(e.target)&&!menuToggle.contains(e.target))closeMenu();});
-matchMedia('(min-width:1181px)').addEventListener('change',e=>{if(e.matches)closeMenu();});
-const contactDialog=document.querySelector('#contact-dialog');
-document.querySelectorAll('[data-contact]').forEach(button=>button.addEventListener('click',()=>{closeMenu();const courier=button.dataset.contact==='courier';document.querySelector('#dialog-title').textContent=courier?'Вызвать курьера':'Бесплатная консультация';document.querySelector('#dialog-description').textContent=courier?'Свяжитесь с мастерской, чтобы согласовать адрес и время бесплатной доставки в пределах МКАД.':'Отправьте фотографию изделия для предварительной оценки.';contactDialog.showModal();}));
-document.querySelectorAll('dialog').forEach(dialog=>{dialog.querySelector('.dialog-close').addEventListener('click',()=>dialog.close());dialog.addEventListener('click',e=>{const r=dialog.getBoundingClientRect();if(e.target===dialog&&(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom))dialog.close();});});
 const gallery=[{src:'assets/IMG_2447.JPG',alt:'Пример реставрации обуви Fendi',brand:'Fendi · Обувь'},{src:'assets/IMG_2449.JPG',alt:'Пример реставрации сапог Prada',brand:'Prada · Обувь'}];let galleryIndex=0;
 function changeGallery(direction){galleryIndex=(galleryIndex+direction+gallery.length)%gallery.length;const img=document.querySelector('#gallery-photo');Object.assign(img,{src:gallery[galleryIndex].src,alt:gallery[galleryIndex].alt});document.querySelector('#gallery-brand').textContent=gallery[galleryIndex].brand;document.querySelector('#gallery-count').textContent=String(galleryIndex+1).padStart(2,'0')+' / 02';if(window.gsap&&!matchMedia('(prefers-reduced-motion:reduce)').matches)gsap.fromTo(img,{opacity:.35},{opacity:1,duration:.4,overwrite:true});}
 document.querySelector('#gallery-prev').addEventListener('click',()=>changeGallery(-1));document.querySelector('#gallery-next').addEventListener('click',()=>changeGallery(1));
 document.querySelectorAll('.image-open').forEach(button=>button.addEventListener('click',()=>{const source=button.querySelector('img'),dialog=document.querySelector('#image-dialog');Object.assign(dialog.querySelector('img'),{src:source.src,alt:source.alt});dialog.showModal();}));
-const cookie=document.querySelector('.cookie');try{cookie.hidden=localStorage.getItem('cookiesAccepted')==='true';}catch{cookie.hidden=false;}
-document.querySelector('#cookie-accept').addEventListener('click',()=>{cookie.hidden=true;try{localStorage.setItem('cookiesAccepted','true');}catch{}});
 const offer=document.querySelector('.offer-strip');let userPaused=false;
 if(window.gsap&&window.ScrollTrigger){
  gsap.registerPlugin(ScrollTrigger);

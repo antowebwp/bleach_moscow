@@ -121,3 +121,9 @@ The care stage pins on all widths when viewport height is at least 540px and mot
 
 ## ScrollTrigger refresh regression fix
 Reveal triggers use play/none/none/none rather than once:true, to avoid self-removal during nested pin refresh at restored scroll or deep anchors. The full care timeline must be built before attaching its standalone ScrollTrigger. Font/load refreshes are coalesced and use safe refresh. Regression checks: load at contacts/services/work/care anchors, reload below pin, resize desktop-mobile-desktop, verify scene buttons and progress.
+
+## Services page prototype
+Source: uslugi.php ACF uslugi repeater and live /Uslugi/ content snapshot. Seven directions and all 42 subservices retained in order, with full descriptions, original photography and seven destination links. Replace the two-column carousel grid with numbered editorial chapters, sticky photographs on desktop, native service disclosure lists and previous/next controls. Services page shares ui.js, fonts, tokens, button inversion and section padding with home. Home navigation now links to uslugi.html. This is a local static prototype; original WordPress/ACF template is unchanged.
+
+### Reference adaptation — 12 October 2026
+Slush: oversized object, independent foreground/background movement. FULL materials uses an existing shoe photo, scroll-linked scale/rotation and a counter-moving typographic backdrop. No assets or palette copied. Raycast/Resend/Apple reference direction: single visual focus and short primary copy, progressively disclosed service conditions. Catalog keeps all 42 descriptions, removes the extra overview accordion, exposes full direction descriptions in a labelled native dialog. Reduced-motion leaves all meaningful content stationary and the counter at its final value.

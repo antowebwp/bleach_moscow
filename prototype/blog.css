@@ -1,0 +1,66 @@
+.journal-main{--journal-gap:clamp(24px,4vw,64px)}
+.journal-label{font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--accent)}
+.journal-intro>div{display:flex;align-items:end;justify-content:space-between;gap:var(--space-10);margin-top:var(--space-9)}
+.journal-intro h1{font-size:clamp(52px,6.8vw,112px);font-weight:400;line-height:.99;letter-spacing:-.035em;text-wrap:balance}
+.journal-main em{color:var(--accent);font-weight:400}
+.journal-intro>div>p{color:var(--text-secondary);max-width:360px;margin-bottom:8px;font-size:15px}
+.journal-feature{padding-top:0}
+.journal-feature>a{display:grid;grid-template-columns:1.4fr 1fr;gap:var(--journal-gap);align-items:center}
+.journal-cover{overflow:hidden;aspect-ratio:1.42}
+.journal-cover img,.journal-card-photo img{width:100%;height:100%;object-fit:cover;transition:transform 900ms cubic-bezier(.2,.7,.2,1)}
+.journal-feature>a:hover img,.journal-card a:hover img{transform:scale(1.035)}
+.journal-feature-copy h2{font-size:clamp(34px,3.8vw,62px);margin:24px 0;line-height:1.04;max-width:650px}
+.journal-feature-copy>p:not(.journal-label){max-width:330px;color:var(--text-secondary);font-size:15px}
+.journal-read{display:flex;justify-content:space-between;border-bottom:1px solid var(--line);padding:24px 0 16px;margin-top:32px;font-size:14px;font-weight:500}
+.journal-meta{display:block;font-size:11px;color:var(--text-secondary);margin-top:16px}
+.journal-library{border-top:1px solid var(--line)}
+.journal-toolbar{display:flex;justify-content:space-between;align-items:center;gap:24px}
+.journal-toolbar h2{font-size:clamp(36px,4vw,58px)}
+.journal-search{display:flex;border-bottom:1px solid var(--line);align-items:center;gap:12px;min-width:270px}
+.journal-search input{width:100%;background:none;border:0;min-height:48px;padding:8px 0;font-size:14px;color:var(--text-primary)}
+.journal-search>span:last-child{font-size:24px}
+.journal-filters{display:flex;flex-wrap:wrap;align-items:center;gap:24px;margin:32px 0 48px}
+.journal-filters button{padding:12px 0;font-size:13px;color:var(--text-secondary);border-bottom:1px solid transparent}
+.journal-filters button[aria-pressed=true]{color:var(--accent-hover);border-color:var(--accent)}
+.journal-filters button:hover{color:var(--accent)}
+#journal-count{margin-left:auto;font-size:11px;color:var(--text-secondary)}
+.journal-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));column-gap:24px;row-gap:64px}
+.journal-card{min-width:0}.journal-card-photo{aspect-ratio:1.25;overflow:hidden}
+.journal-card:nth-child(3n+2) .journal-card-photo{aspect-ratio:1}
+.journal-card-meta{display:flex;justify-content:space-between;font-size:11px;color:var(--accent);margin:20px 0 14px}
+.journal-card h3{font-size:clamp(26px,2.3vw,38px);font-weight:500;max-width:450px;line-height:1.12}
+.journal-card a{display:block}.journal-empty{padding:64px 0}.journal-empty p{margin:16px 0 24px;color:var(--text-secondary)}
+.article-crumbs{display:flex;flex-wrap:wrap;gap:12px;font-size:11px;color:var(--text-secondary);margin-bottom:48px}
+.article-header h1{font-size:clamp(42px,5.5vw,88px);line-height:1.03;font-weight:400;letter-spacing:-.025em;max-width:1150px;margin:28px 0 32px;text-wrap:balance}
+.article-byline{display:flex;flex-wrap:wrap;gap:12px 32px;font-size:12px;color:var(--text-secondary)}
+.article-hero{margin:0 var(--gutter);overflow:hidden;position:relative}
+.article-hero>img{width:100%;height:clamp(280px,44vw,700px);object-fit:cover;object-position:center 58%}
+.article-hero figcaption{font-size:11px;padding:16px 0;color:var(--text-secondary)}
+.article-layout{display:grid;grid-template-columns:minmax(220px,.7fr) minmax(0,2fr);gap:clamp(40px,8vw,140px);align-items:start}
+.article-sidebar{position:sticky;top:calc(var(--header-height) + 24px)}
+.article-toc summary{list-style:none;font-size:12px;letter-spacing:.03em;padding:12px 0;border-bottom:1px solid var(--line);cursor:pointer;display:flex;justify-content:space-between}
+.article-toc summary::-webkit-details-marker{display:none}
+.article-toc summary>span{color:var(--accent)}
+.article-toc nav{display:flex;flex-direction:column;max-height:48svh;overflow-y:auto;scrollbar-width:thin;padding-top:16px;overscroll-behavior:contain}
+.article-toc a{display:grid;grid-template-columns:24px 1fr;gap:8px;padding:8px 8px 8px 0;color:var(--text-secondary);font-size:11px;line-height:1.45}
+.article-toc a>span{color:var(--accent);font-size:9px;padding-top:2px}
+.article-toc a[aria-current=true],.article-toc a:hover{color:var(--accent-hover)}
+.article-progress{display:flex;flex-wrap:wrap;justify-content:space-between;margin-top:32px;gap:12px;font-size:10px;color:var(--text-secondary)}
+.article-progress>div{width:100%;height:2px;background:var(--line);overflow:hidden}.article-progress>div>span{display:block;height:100%;background:var(--accent);transform:scaleX(0);transform-origin:left}
+.article-body{width:100%;min-width:0;max-width:850px;font-size:16px;line-height:1.85}
+.article-body p{margin:0 0 24px;line-height:1.85;text-wrap:pretty}
+.article-body strong{font-weight:500}
+.article-body>p:first-child{font-size:20px;line-height:1.65}
+.article-body h2{font-size:clamp(30px,3vw,46px);margin:64px 0 24px;scroll-margin-top:120px;line-height:1.1;font-weight:500;text-align:left}
+.article-body h3{font-size:28px;margin:36px 0 20px}
+.article-body ul,.article-body ol{padding-left:22px;margin:24px 0}.article-body li{padding-left:6px;margin:12px 0}
+.article-body a{color:var(--accent-hover);text-decoration:underline;text-underline-offset:4px;text-decoration-color:var(--accent)}
+.article-body aside,.article-body blockquote{margin:40px 0;padding:24px 28px;border-left:2px solid var(--accent);background:var(--accent-soft)}
+.article-body aside p:last-child,.article-body blockquote p:last-child{margin-bottom:0}
+.article-table{overflow-x:auto;margin:32px 0;scrollbar-width:thin}.article-body table{border-collapse:collapse;width:100%;min-width:540px;font-size:13px;line-height:1.6}
+.article-body th,.article-body td{padding:16px 12px;border-bottom:1px solid var(--line);vertical-align:top;text-align:left}.article-body th{font-weight:500;color:var(--accent-hover)}
+.article-end{border-top:1px solid var(--line);display:grid;grid-template-columns:1fr 1fr;align-items:end;gap:24px}.article-end>.journal-label{grid-column:1/-1}.article-end>div{display:flex;gap:24px;align-items:center;flex-wrap:wrap;justify-content:end}
+.article-back{display:flex;justify-content:space-between;border-top:1px solid var(--line);font-size:12px;gap:24px;color:var(--text-secondary)}
+@media(min-width:1800px){.article-body{max-width:1000px;font-size:18px}}
+@media(max-width:1000px){.journal-feature>a{grid-template-columns:1.1fr 1fr}.journal-feature-copy h2{font-size:36px}.journal-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.article-layout{grid-template-columns:210px minmax(0,1fr);gap:40px}.article-toc a{font-size:10px}}
+@media(max-width:700px){.journal-intro>div{display:block}.journal-intro h1{font-size:56px}.journal-intro>div>p{margin-top:24px}.journal-feature>a{grid-template-columns:1fr;gap:24px}.journal-cover{aspect-ratio:1.25}.journal-feature-copy h2{margin:16px 0;font-size:38px}.journal-read{margin-top:16px}.journal-toolbar{align-items:start;flex-direction:column}.journal-search{width:100%;min-width:0}.journal-filters{gap:8px 20px;margin:20px 0 32px}#journal-count{width:100%;margin:0}.journal-grid{gap:36px 18px}.journal-card h3{font-size:25px}.journal-card-meta{font-size:9px;gap:8px;margin:12px 0}.journal-card:nth-child(n) .journal-card-photo{aspect-ratio:1}.article-crumbs{margin-bottom:32px}.article-header h1{font-size:44px;margin:24px 0}.article-byline{font-size:10px;gap:12px 18px}.article-layout{display:flex;flex-direction:column;gap:32px}.article-sidebar{position:static;width:100%}.article-toc nav{max-height:280px}.article-toc a{font-size:12px}.article-progress{display:none}.article-body{font-size:15px}.article-body>p:first-child{font-size:18px}.article-body h2{margin-top:44px;font-size:34px}.article-body aside{padding:20px}.article-end{grid-template-columns:1fr}.article-end>div{justify-content:start;margin-top:16px}.article-back{flex-direction:column}.article-hero>img{height:300px}}
