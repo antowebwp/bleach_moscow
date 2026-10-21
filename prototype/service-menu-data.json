@@ -1,0 +1,111 @@
+[
+  {
+    "id": "shoes",
+    "title": "Обувь",
+    "note": "От деликатной чистки до восстановления любимой пары.",
+    "items": [
+      [
+        "Комплексная чистка",
+        "chistka_obuvi_full.html",
+        "Full.png"
+      ],
+      [
+        "Комплексная реставрация",
+        null,
+        "loro-piana.jpg"
+      ],
+      [
+        "Замена подошвы Loro Piana",
+        "loropiana.html",
+        "obuv.png"
+      ],
+      [
+        "Сервисный центр Loro Piana",
+        "loropiana.html",
+        "IMG_3990-_1_.jpg"
+      ],
+      [
+        "Набойки / профилактика",
+        null,
+        "IMG_0911-scaled.jpg"
+      ],
+      [
+        "Ремонт задников"
+      ],
+      [
+        "Швейные работы"
+      ],
+      [
+        "Бренды",
+        "brand.html"
+      ]
+    ]
+  },
+  {
+    "id": "bags",
+    "title": "Сумки и аксессуары",
+    "note": "Сохраняем форму, фактуру и детали, за которые вы любите свою вещь.",
+    "items": [
+      [
+        "Комплексная чистка сумки",
+        null,
+        "fendi-sumka-restavracziya-posle.jpg"
+      ],
+      [
+        "Реставрация углов",
+        null,
+        "UFhHDSU.jpg"
+      ],
+      [
+        "Покраска клатча",
+        null,
+        "4.jpg"
+      ],
+      [
+        "Комплексная реставрация сумки",
+        null,
+        "sumka.jpg"
+      ],
+      [
+        "Чистка подкладки",
+        null,
+        "5.jpg"
+      ],
+      [
+        "Перешив ручек"
+      ],
+      [
+        "Перешив кожи на сумках Louis Vuitton"
+      ],
+      [
+        "Реставрация / восстановление уреза"
+      ],
+      [
+        "Замена молнии на сумке"
+      ]
+    ]
+  },
+  {
+    "id": "clothes",
+    "title": "Химчистка одежды",
+    "homeTitle": "Одежда",
+    "note": "Бережный уход за повседневными и особенными вещами.",
+    "items": [
+      [
+        "Химчистка верхней одежды",
+        "himchistka_s_besplatnoy_dostavkoy.html",
+        "service-coat.svg"
+      ],
+      [
+        "Химчистка сорочек",
+        "himchistka_s_besplatnoy_dostavkoy.html",
+        "service-shirt.svg"
+      ],
+      [
+        "Химчистка трикотажных изделий",
+        "himchistka_s_besplatnoy_dostavkoy.html",
+        "service-knit.svg"
+      ]
+    ]
+  }
+]

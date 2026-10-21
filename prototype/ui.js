@@ -69,6 +69,9 @@ document.querySelectorAll('[data-contact]').forEach(button =>
 		document.querySelector('#dialog-description').textContent = courier
 			? 'Свяжитесь с мастерской, чтобы согласовать адрес и время бесплатной доставки в пределах МКАД.'
 			: 'Отправьте фотографию изделия для предварительной оценки.'
+		if (button.dataset.service) {
+			document.querySelector('#dialog-title').textContent = button.dataset.service
+		}
 		contactDialog.showModal()
 	}),
 )

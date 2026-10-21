@@ -6,25 +6,29 @@
 		<title>BLEACH MOSCOW · Главная</title>
 		<meta
 			name="description"
-			content="Премиальная реставрация обуви, сумок и изделий из кожи и замши в Москве."
+			content="Премиальный сервис: химчистка и реставрация обуви, одежды и сумок в Москве. Бережно восстанавливаем то, что вам дорого."
 		/>
 		<link rel="icon" href="assets/brand-compact.svg" />
-		<link rel="stylesheet" href="styles.css" /><link rel="stylesheet" href="full-font.css" />
+		<link rel="stylesheet" href="styles.css" />
+		<link rel="stylesheet" href="full-font.css" />
 		<script defer src="vendor/gsap.min.js"></script>
 		<script defer src="vendor/ScrollTrigger.min.js"></script>
 		<script defer src="ui.js"></script>
-		<script defer src="main.js?v=scroll-refresh-2"></script>
+		<script defer src="home.js"></script>
+		<link rel="stylesheet" href="service-menu.css" />
 	</head>
 	<body>
 		<a class="skip" href="#main">Перейти к содержимому</a>
 		<header class="header">
 			<a href="#main" class="brand" aria-label="BLEACH MOSCOW, главная"
-				><img draggable="false" src="assets/brand-compact.svg" alt="BLEACH MOSCOW"
+				><img
+					draggable="false"
+					src="assets/brand-compact.svg"
+					alt="BLEACH MOSCOW"
 			/></a>
 			<nav class="desktop-nav" aria-label="Основная навигация">
 				<a href="#main">Главная</a><a href="uslugi.html">Услуги</a
-				><a href="brand.html">Примеры работ</a
-				><a href="blog.html">Блог</a
+				><a href="brand.html">Примеры работ</a><a href="blog.html">Блог</a
 				><a href="#reviews">Отзывы</a><a href="#contacts">Контакты</a>
 			</nav>
 			<div class="header-actions">
@@ -50,8 +54,7 @@
 			hidden
 		>
 			<a href="#main">Главная</a><a href="uslugi.html">Услуги</a
-			><a href="brand.html">Примеры работ</a
-			><a href="blog.html">Блог</a
+			><a href="brand.html">Примеры работ</a><a href="blog.html">Блог</a
 			><a href="#reviews">Отзывы</a><a href="#contacts">Контакты</a
 			><button class="button button-dark" data-contact="consultation">
 				Бесплатная консультация
@@ -60,20 +63,24 @@
 		<main id="main">
 			<section class="first-slide hero" aria-labelledby="hero-title">
 				<div class="hero-photo">
-					<img draggable="false"
+					<img
+						draggable="false"
 						src="assets/obuv.png"
 						alt="Замшевые ботинки Loro Piana, предметная фотография BLEACH MOSCOW"
 						fetchpriority="high"
 					/>
 				</div>
 				<div class="hero-content">
-					<p class="hero-eyebrow">Премиальный сервис по реставрации</p>
+					<p class="hero-eyebrow">Премиальный сервис</p>
 					<h1 id="hero-title">
-						<span class="title-line"><span>ЛЮБИМЫЕ ВЕЩИ.</span></span
-						><span class="title-line"><span>НОВАЯ ЖИЗНЬ.</span></span>
+						<span class="title-line"><span>Химчистка</span></span
+						><span class="title-line"><span>и реставрация</span></span>
 					</h1>
+					<p class="hero-categories">
+						Обувь <span aria-hidden="true">·</span> Одежда
+						<span aria-hidden="true">·</span> Сумки
+					</p>
 					<p class="hero-description">
-						Обувь, сумки и любые изделия из кожи и замши.<br />
 						Бережно восстанавливаем то, что вам дорого.
 					</p>
 					<div class="hero-buttons">
@@ -94,323 +101,7 @@
 					>
 				</div>
 			</section>
-			<section
-				class="second-slide section"
-				id="results"
-				aria-labelledby="results-title"
-			>
-				<div class="section-heading reveal">
-					<h2 id="results-title">Реставрация обуви<br />и сумок в Москве</h2>
-					<a class="text-link" href="brand.html"
-						>Все примеры работ <span aria-hidden="true">↗</span></a
-					>
-				</div>
-				<div class="results-grid">
-					<article class="comparison-card">
-						<div class="work-story reveal">
-							<span class="muted small">Fendi · Реставрация сумки</span>
-							<h3>Тот же характер.<br />Совсем другое состояние.</h3>
-							<p>
-								Бережно возвращаем ухоженный вид, сохраняя фактуру и узнаваемые
-								детали.
-							</p>
-						</div>
-						<div class="before-after-pair">
-							<figure class="result-frame">
-								<button
-									class="image-open"
-									aria-label="Увеличить сумку Fendi до реставрации"
-								>
-									<img draggable="false"
-										src="assets/fendi-sumka-restavracziya.jpg"
-										alt="Сумка Fendi до реставрации"
-										loading="lazy"
-									/>
-								</button>
-								<figcaption>
-									<span>До реставрации</span><span class="muted">01</span>
-								</figcaption>
-							</figure>
-							<figure class="result-frame">
-								<button
-									class="image-open"
-									aria-label="Увеличить сумку Fendi после реставрации"
-								>
-									<img draggable="false"
-										src="assets/fendi-sumka-restavracziya-posle.jpg"
-										alt="Сумка Fendi после реставрации"
-										loading="lazy"
-									/>
-								</button>
-								<figcaption>
-									<span>После реставрации</span><span class="muted">02</span>
-								</figcaption>
-							</figure>
-						</div>
-					</article>
-					<article class="gallery-card reveal">
-						<div class="gallery-image">
-							<button
-								class="image-open"
-								aria-label="Увеличить пример реставрации"
-							>
-								<img draggable="false"
-									id="gallery-photo"
-									src="assets/IMG_2447.JPG"
-									alt="Пример реставрации обуви Fendi"
-									loading="lazy"
-								/>
-							</button>
-							<div class="gallery-controls">
-								<button
-									class="icon-button"
-									id="gallery-prev"
-									aria-label="Предыдущая работа"
-								>
-									←</button
-								><span id="gallery-count" aria-live="polite">01 / 02</span
-								><button
-									class="icon-button"
-									id="gallery-next"
-									aria-label="Следующая работа"
-								>
-									→
-								</button>
-							</div>
-						</div>
-						<div class="work-caption">
-							<h3>Результат в деталях</h3>
-							<span id="gallery-brand">Fendi · Обувь</span>
-						</div>
-					</article>
-				</div>
-			</section>
-			<section class="third-slide section about" aria-labelledby="about-title">
-				<div class="section-heading reveal">
-					<h2 id="about-title">Дорогим вещам нужен<br />особенный подход.</h2>
-				</div>
-				<p class="section-intro reveal">
-					Восстановление элитной обуви, брендовых сумок и курток можно доверить
-					только мастерской с хорошей репутацией. Такие вещи требуют бережного
-					ухода и еще более бережной работы по ремонту.
-				</p>
-				<div class="care-stack" id="care-stack">
-					<article class="care-panel">
-						<div class="care-photo">
-							<img draggable="false"
-								src="assets/IMG_3990-_1_.jpg"
-								alt="Обувь и профессиональные средства ухода в мастерской BLEACH MOSCOW"
-								loading="lazy"
-							/>
-						</div>
-						<div class="care-copy">
-							<span class="care-index">01 / 04</span>
-							<h3>Опыт, которому<br />можно довериться.</h3>
-							<p>
-								Наша мастерская работает 8 лет. Десятки тысяч пар сапог, туфель,
-								кроссовок, сумок и курток прошли через наши руки. Тысячи
-								клиентов довольны.
-							</p>
-							<div class="care-detail">
-								<h4>Бережная работа</h4>
-								<p>Учитываем материал, состояние и особенности каждой вещи.</p>
-							</div>
-						</div>
-					</article>
-					<article class="care-panel">
-						<div class="care-photo">
-							<img draggable="false"
-								src="assets/sumka.jpg"
-								alt="Ручная обработка замшевой сумки в мастерской"
-								loading="lazy"
-							/>
-						</div>
-						<div class="care-copy">
-							<span class="care-index">02 / 04</span>
-							<h3>Сначала оценка.<br />Потом работа.</h3>
-							<p>
-								Делаем предварительную оценку удаленно: вы присылаете
-								фотографии, мы обсуждаем объем и стоимость работ.
-							</p>
-							<div class="care-detail">
-								<h4>Оценка за 15 минут</h4>
-								<p>Свяжитесь с нами удобным способом и покажите вашу вещь.</p>
-							</div>
-							<button class="button button-light" data-contact="consultation">
-								Бесплатная консультация ↗
-							</button>
-						</div>
-					</article>
-					<article class="care-panel">
-						<div class="care-photo">
-							<img draggable="false"
-								src="assets/4.jpg"
-								alt="Кожаная сумка и инструменты для реставрации"
-								loading="lazy"
-							/>
-						</div>
-						<div class="care-copy">
-							<span class="care-index">03 / 04</span>
-							<h3>Любимые вещи<br />заслуживают<br />второй жизни.</h3>
-							<p>
-								Дорогие брендовые изделия из кожи несут запас прочности. Их
-								можно реставрировать.
-							</p>
-							<div class="care-detail">
-								<h4>Наша миссия</h4>
-								<p>
-									Благодаря бережному уходу ваши любимые вещи пробудут с вами
-									гораздо дольше.
-								</p>
-							</div>
-						</div>
-					</article>
-					<article class="care-panel">
-						<div class="care-photo">
-							<img draggable="false"
-								src="assets/5_1.jpg"
-								alt="Интерьер мастерской BLEACH MOSCOW"
-								loading="lazy"
-							/>
-						</div>
-						<div class="care-copy">
-							<span class="care-index">04 / 04</span>
-							<h3>Заберем.<br />Восстановим.<br />Вернем.</h3>
-							<p>
-								Бесплатная доставка в пределах МКАД. Наш курьер заберет ваши
-								изделия и доставит готовый заказ в удобное время.
-							</p>
-							<button class="button button-light" data-contact="courier">
-								Вызвать курьера ↗
-							</button>
-						</div>
-					</article>
-					<nav class="scene-controls" aria-label="Сцены о мастерской" hidden>
-						<button aria-label="Опыт мастерской" aria-current="true">01</button
-						><button aria-label="Оценка по фотографии">02</button
-						><button aria-label="Наша миссия">03</button
-						><button aria-label="Бесплатная доставка">04</button>
-					</nav>
-				</div>
-			</section>
-			<section
-				class="fourth-slide section services"
-				id="services"
-				aria-labelledby="services-title"
-			>
-				<div class="section-heading reveal">
-					<h2 id="services-title">Качественный ремонт<br />обуви и сумок</h2>
-					<a href="uslugi.html" class="text-link"
-						>Каталог услуг ↗</a
-					>
-				</div>
-				<div class="services-grid">
-					<article class="service-card reveal">
-						<a
-							class="service-image"
-							href="https://bleach.moscow/himchistka_obuvi/"
-							><img draggable="false"
-								src="assets/loro-piana.jpg"
-								alt="Замшевые ботинки, химчистка обуви"
-								loading="lazy"
-						/></a>
-						<div class="service-body">
-							<h3>Химчистка обуви</h3>
-							<p>Бережный уход за кожей, замшей и нубуком.</p>
-							<a
-								href="https://bleach.moscow/himchistka_obuvi/"
-								class="service-link"
-								>Подробнее <span aria-hidden="true">↗</span></a
-							>
-						</div>
-					</article>
-					<article class="service-card reveal">
-						<a
-							class="service-image"
-							href="https://bleach.moscow/restavracia_obuvi/"
-							><img draggable="false"
-								src="assets/IMG_3990-_1_.jpg"
-								alt="Обувь в мастерской, реставрация обуви"
-								loading="lazy"
-						/></a>
-						<div class="service-body">
-							<h3>Реставрация обуви</h3>
-							<p>Восстановление цвета, формы и деталей.</p>
-							<a
-								href="https://bleach.moscow/restavracia_obuvi/"
-								class="service-link"
-								>Подробнее <span aria-hidden="true">↗</span></a
-							>
-						</div>
-					</article>
-					<article class="service-card reveal">
-						<a
-							class="service-image"
-							href="https://bleach.moscow/restavracia_sumok/"
-							><img draggable="false"
-								src="assets/sumka.jpg"
-								alt="Ручная чистка замшевой сумки"
-								loading="lazy"
-						/></a>
-						<div class="service-body">
-							<h3>Сумки и аксессуары</h3>
-							<p>Чистка, ремонт и реставрация любимых вещей.</p>
-							<a
-								href="https://bleach.moscow/restavracia_sumok/"
-								class="service-link"
-								>Подробнее <span aria-hidden="true">↗</span></a
-							>
-						</div>
-					</article>
-					<article class="service-card reveal">
-						<a class="service-image" href="loropiana.html"
-							><img draggable="false"
-								src="assets/obuv.png"
-								alt="Ботинки Loro Piana, специализированный сервис"
-								loading="lazy"
-						/></a>
-						<div class="service-body">
-							<h3>Сервис Loro Piana</h3>
-							<p>Деликатный подход к материалам вашего бренда.</p>
-							<a href="loropiana.html" class="service-link"
-								>Подробнее <span aria-hidden="true">↗</span></a
-							>
-						</div>
-					</article>
-					<article class="service-card reveal">
-						<a class="service-image" href="https://bleach.moscow/himchistka/"
-							><img draggable="false"
-								src="assets/5.jpg"
-								alt="Кожаные изделия, химчистка одежды"
-								loading="lazy"
-						/></a>
-						<div class="service-body">
-							<h3>Химчистка одежды</h3>
-							<p>Профессиональный уход за вашим гардеробом.</p>
-							<a href="https://bleach.moscow/himchistka/" class="service-link"
-								>Подробнее <span aria-hidden="true">↗</span></a
-							>
-						</div>
-					</article>
-					<article class="service-card reveal">
-						<a class="service-image" href="https://bleach.moscow/atele/"
-							><img draggable="false"
-								src="assets/4.jpg"
-								alt="Инструменты для работы с изделиями из кожи"
-								loading="lazy"
-						/></a>
-						<div class="service-body">
-							<h3>Ателье</h3>
-							<p>Ремонт одежды с вниманием к каждой детали.</p>
-							<a href="https://bleach.moscow/atele/" class="service-link"
-								>Подробнее <span aria-hidden="true">↗</span></a
-							>
-						</div>
-					</article>
-				</div>
-				<p class="muted small services-note">
-					Стоимость определяем после оценки состояния изделия.
-				</p>
+			<section class="section home-offer" aria-label="Сервис мастерской">
 				<aside class="offer-strip" aria-label="Предложения BLEACH MOSCOW">
 					<p class="sr-only">
 						Бесплатная консультация. Оценка по фото за 15 минут. Бесплатная
@@ -445,6 +136,597 @@
 					</button>
 				</aside>
 			</section>
+			<section class="third-slide section about" aria-labelledby="about-title">
+				<div class="section-heading reveal">
+					<h2 id="about-title">Дорогим вещам нужен<br />особенный подход.</h2>
+				</div>
+				<p class="section-intro reveal">
+					Восстановление элитной обуви, брендовых сумок и курток можно доверить
+					только мастерской с хорошей репутацией. Такие вещи требуют бережного
+					ухода и еще более бережной работы по ремонту.
+				</p>
+				<div class="care-stack" id="care-stack">
+					<article class="care-panel">
+						<div class="care-photo">
+							<img
+								draggable="false"
+								src="assets/IMG_3990-_1_.jpg"
+								alt="Обувь и профессиональные средства ухода в мастерской BLEACH MOSCOW"
+								loading="lazy"
+							/>
+						</div>
+						<div class="care-copy">
+							<span class="care-index">01 / 04</span>
+							<h3>Опыт, которому<br />можно довериться.</h3>
+							<p>
+								Наша мастерская работает 8 лет. Десятки тысяч пар сапог, туфель,
+								кроссовок, сумок и курток прошли через наши руки. Тысячи
+								клиентов довольны.
+							</p>
+							<div class="care-detail">
+								<h4>Бережная работа</h4>
+								<p>Учитываем материал, состояние и особенности каждой вещи.</p>
+							</div>
+						</div>
+					</article>
+					<article class="care-panel">
+						<div class="care-photo">
+							<img
+								draggable="false"
+								src="assets/sumka.jpg"
+								alt="Ручная обработка замшевой сумки в мастерской"
+								loading="lazy"
+							/>
+						</div>
+						<div class="care-copy">
+							<span class="care-index">02 / 04</span>
+							<h3>Сначала оценка.<br />Потом работа.</h3>
+							<p>
+								Делаем предварительную оценку удаленно: вы присылаете
+								фотографии, мы обсуждаем объем и стоимость работ.
+							</p>
+							<div class="care-detail">
+								<h4>Оценка за 15 минут</h4>
+								<p>Свяжитесь с нами удобным способом и покажите вашу вещь.</p>
+							</div>
+							<button class="button button-light" data-contact="consultation">
+								Бесплатная консультация ↗
+							</button>
+						</div>
+					</article>
+					<article class="care-panel">
+						<div class="care-photo">
+							<img
+								draggable="false"
+								src="assets/4.jpg"
+								alt="Кожаная сумка и инструменты для реставрации"
+								loading="lazy"
+							/>
+						</div>
+						<div class="care-copy">
+							<span class="care-index">03 / 04</span>
+							<h3>Любимые вещи<br />заслуживают<br />второй жизни.</h3>
+							<p>
+								Дорогие брендовые изделия из кожи несут запас прочности. Их
+								можно реставрировать.
+							</p>
+							<div class="care-detail">
+								<h4>Наша миссия</h4>
+								<p>
+									Благодаря бережному уходу ваши любимые вещи пробудут с вами
+									гораздо дольше.
+								</p>
+							</div>
+						</div>
+					</article>
+					<article class="care-panel">
+						<div class="care-photo">
+							<img
+								draggable="false"
+								src="assets/5_1.jpg"
+								alt="Интерьер мастерской BLEACH MOSCOW"
+								loading="lazy"
+							/>
+						</div>
+						<div class="care-copy">
+							<span class="care-index">04 / 04</span>
+							<h3>Заберем.<br />Восстановим.<br />Вернем.</h3>
+							<p>
+								Бесплатная доставка в пределах МКАД. Наш курьер заберет ваши
+								изделия и доставит готовый заказ в удобное время.
+							</p>
+							<button class="button button-light" data-contact="courier">
+								Вызвать курьера ↗
+							</button>
+						</div>
+					</article>
+					<nav class="scene-controls" aria-label="Сцены о мастерской" hidden>
+						<button aria-label="Опыт мастерской" aria-current="true">01</button
+						><button aria-label="Оценка по фотографии">02</button
+						><button aria-label="Наша миссия">03</button
+						><button aria-label="Бесплатная доставка">04</button>
+					</nav>
+				</div>
+			</section>
+			<div class="home-directions" id="services">
+				<section
+					class="home-direction section"
+					id="shoes"
+					aria-labelledby="shoes-title"
+				>
+					<div class="direction-title">
+						<span class="menu-label">01 / Направления мастерской</span>
+						<h2 id="shoes-title">Обувь</h2>
+						<p>От деликатной чистки до восстановления любимой пары.</p>
+						<a class="text-link" href="uslugi.html#shoes"
+							>Все услуги для обуви ↗</a
+						>
+					</div>
+					<div class="home-mini-services">
+						<a class="mini-service" href="chistka_obuvi_full.html"
+							><span class="mini-service-image"
+								><img
+									draggable="false"
+									src="assets/Full.png"
+									alt=""
+									loading="lazy"
+									width="180"
+									height="180" /></span
+							><span>Комплексная чистка</span
+							><span class="mini-service-arrow" aria-hidden="true">↗</span></a
+						><a class="mini-service" href="uslugi.html#shoes"
+							><span class="mini-service-image"
+								><img
+									draggable="false"
+									src="assets/loro-piana.jpg"
+									alt=""
+									loading="lazy"
+									width="180"
+									height="180" /></span
+							><span>Комплексная реставрация</span
+							><span class="mini-service-arrow" aria-hidden="true">↗</span></a
+						><a class="mini-service" href="loropiana.html"
+							><span class="mini-service-image"
+								><img
+									draggable="false"
+									src="assets/obuv.png"
+									alt=""
+									loading="lazy"
+									width="180"
+									height="180" /></span
+							><span>Замена подошвы Loro Piana</span
+							><span class="mini-service-arrow" aria-hidden="true">↗</span></a
+						><a class="mini-service" href="loropiana.html"
+							><span class="mini-service-image"
+								><img
+									draggable="false"
+									src="assets/IMG_3990-_1_.jpg"
+									alt=""
+									loading="lazy"
+									width="180"
+									height="180" /></span
+							><span>Сервисный центр Loro Piana</span
+							><span class="mini-service-arrow" aria-hidden="true">↗</span></a
+						><a class="mini-service" href="uslugi.html#shoes"
+							><span class="mini-service-image"
+								><img
+									draggable="false"
+									src="assets/IMG_0911-scaled.jpg"
+									alt=""
+									loading="lazy"
+									width="180"
+									height="180" /></span
+							><span>Набойки / профилактика</span
+							><span class="mini-service-arrow" aria-hidden="true">↗</span></a
+						>
+					</div>
+				</section>
+				<section
+					class="home-direction section"
+					id="bags"
+					aria-labelledby="bags-title"
+				>
+					<div class="direction-title">
+						<span class="menu-label">02 / Направления мастерской</span>
+						<h2 id="bags-title">Сумки и аксессуары</h2>
+						<p>
+							Сохраняем форму, фактуру и детали, за которые вы любите свою вещь.
+						</p>
+						<a class="text-link" href="uslugi.html#bags"
+							>Все услуги для сумок ↗</a
+						>
+					</div>
+					<div class="home-mini-services">
+						<a class="mini-service" href="uslugi.html#bags"
+							><span class="mini-service-image"
+								><img
+									draggable="false"
+									src="assets/fendi-sumka-restavracziya-posle.jpg"
+									alt=""
+									loading="lazy"
+									width="180"
+									height="180" /></span
+							><span>Комплексная чистка сумки</span
+							><span class="mini-service-arrow" aria-hidden="true">↗</span></a
+						><a class="mini-service" href="uslugi.html#bags"
+							><span class="mini-service-image"
+								><img
+									draggable="false"
+									src="assets/UFhHDSU.jpg"
+									alt=""
+									loading="lazy"
+									width="180"
+									height="180" /></span
+							><span>Реставрация углов</span
+							><span class="mini-service-arrow" aria-hidden="true">↗</span></a
+						><a class="mini-service" href="uslugi.html#bags"
+							><span class="mini-service-image"
+								><img
+									draggable="false"
+									src="assets/4.jpg"
+									alt=""
+									loading="lazy"
+									width="180"
+									height="180" /></span
+							><span>Покраска клатча</span
+							><span class="mini-service-arrow" aria-hidden="true">↗</span></a
+						><a class="mini-service" href="uslugi.html#bags"
+							><span class="mini-service-image"
+								><img
+									draggable="false"
+									src="assets/sumka.jpg"
+									alt=""
+									loading="lazy"
+									width="180"
+									height="180" /></span
+							><span>Комплексная реставрация сумки</span
+							><span class="mini-service-arrow" aria-hidden="true">↗</span></a
+						><a class="mini-service" href="uslugi.html#bags"
+							><span class="mini-service-image"
+								><img
+									draggable="false"
+									src="assets/5.jpg"
+									alt=""
+									loading="lazy"
+									width="180"
+									height="180" /></span
+							><span>Чистка подкладки</span
+							><span class="mini-service-arrow" aria-hidden="true">↗</span></a
+						>
+					</div>
+				</section>
+				<section
+					class="home-direction section"
+					id="clothes"
+					aria-labelledby="clothes-title"
+				>
+					<div class="direction-title">
+						<span class="menu-label">03 / Направления мастерской</span>
+						<h2 id="clothes-title">Одежда</h2>
+						<p>Бережный уход за повседневными и особенными вещами.</p>
+						<a class="text-link" href="uslugi.html#clothes"
+							>Все услуги для одежды ↗</a
+						>
+					</div>
+					<div class="home-mini-services">
+						<a
+							class="mini-service"
+							href="himchistka_s_besplatnoy_dostavkoy.html"
+							><span class="mini-service-image"
+								><img
+									draggable="false"
+									src="assets/service-coat.svg"
+									alt=""
+									loading="lazy"
+									width="180"
+									height="180" /></span
+							><span>Химчистка верхней одежды</span
+							><span class="mini-service-arrow" aria-hidden="true">↗</span></a
+						><a
+							class="mini-service"
+							href="himchistka_s_besplatnoy_dostavkoy.html"
+							><span class="mini-service-image"
+								><img
+									draggable="false"
+									src="assets/service-shirt.svg"
+									alt=""
+									loading="lazy"
+									width="180"
+									height="180" /></span
+							><span>Химчистка сорочек</span
+							><span class="mini-service-arrow" aria-hidden="true">↗</span></a
+						><a
+							class="mini-service"
+							href="himchistka_s_besplatnoy_dostavkoy.html"
+							><span class="mini-service-image"
+								><img
+									draggable="false"
+									src="assets/service-knit.svg"
+									alt=""
+									loading="lazy"
+									width="180"
+									height="180" /></span
+							><span>Химчистка трикотажных изделий</span
+							><span class="mini-service-arrow" aria-hidden="true">↗</span></a
+						>
+					</div>
+				</section>
+			</div>
+			<section
+				class="maker-brands section"
+				aria-labelledby="maker-brands-title"
+			>
+				<div>
+					<p class="menu-label">Бренды из портфолио мастерской</p>
+					<h2 id="maker-brands-title">Внимание к каждому бренду.</h2>
+				</div>
+				<div class="maker-logo-grid">
+					<a
+						href="brand.html?brand=Loro%20Piana"
+						aria-label="Примеры работ: Loro Piana"
+						><img
+							draggable="false"
+							src="assets/mark-loro-piana.png"
+							alt="Loro Piana"
+							loading="lazy"
+							width="180"
+							height="70" /></a
+					><a href="brand.html?brand=Chanel" aria-label="Примеры работ: Chanel"
+						><img
+							draggable="false"
+							src="assets/mark-chanel.svg"
+							alt="Chanel"
+							loading="lazy"
+							width="180"
+							height="70" /></a
+					><a href="brand.html?brand=Gucci" aria-label="Примеры работ: Gucci"
+						><img
+							draggable="false"
+							src="assets/mark-gucci.svg"
+							alt="Gucci"
+							loading="lazy"
+							width="180"
+							height="70" /></a
+					><a href="brand.html?brand=Dior" aria-label="Примеры работ: Dior"
+						><img
+							draggable="false"
+							src="assets/mark-dior.svg"
+							alt="Dior"
+							loading="lazy"
+							width="180"
+							height="70" /></a
+					><a href="brand.html?brand=Yeezy" aria-label="Примеры работ: Yeezy"
+						><svg
+							viewBox="790 235 410 150"
+							xmlns="http://www.w3.org/2000/svg"
+							role="img"
+							aria-label="Yeezy"
+							focusable="false"
+						>
+							<defs>
+								<clipPath id="grid-yeezy-crop">
+									<rect x="790" y="235" width="410" height="150" />
+								</clipPath>
+								<filter
+									id="grid-yeezy"
+									color-interpolation-filters="sRGB"
+									x="0"
+									y="0"
+									width="100%"
+									height="100%"
+								>
+									<feColorMatrix
+										type="matrix"
+										values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -.333 -.333 -.333 0 1"
+									/>
+									<feComponentTransfer>
+										<feFuncA type="linear" slope="1.5" intercept="-.12" />
+									</feComponentTransfer>
+								</filter>
+							</defs>
+							<g clip-path="url(#grid-yeezy-crop)">
+								<image
+									href="assets/case-IMG_9499.png"
+									width="1280"
+									height="1280"
+									filter="url(#grid-yeezy)"
+								/>
+							</g></svg></a
+					><a
+						href="brand.html?brand=Santoni"
+						aria-label="Примеры работ: Santoni"
+						><svg
+							viewBox="820 240 350 95"
+							xmlns="http://www.w3.org/2000/svg"
+							role="img"
+							aria-label="Santoni"
+							focusable="false"
+						>
+							<defs>
+								<clipPath id="grid-santoni-crop">
+									<rect x="820" y="240" width="350" height="95" />
+								</clipPath>
+								<filter
+									id="grid-santoni"
+									color-interpolation-filters="sRGB"
+									x="0"
+									y="0"
+									width="100%"
+									height="100%"
+								>
+									<feColorMatrix
+										type="matrix"
+										values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -.333 -.333 -.333 0 1"
+									/>
+									<feComponentTransfer>
+										<feFuncA type="linear" slope="1.5" intercept="-.12" />
+									</feComponentTransfer>
+								</filter>
+							</defs>
+							<g clip-path="url(#grid-santoni-crop)">
+								<image
+									href="assets/case-IMG-8571.png"
+									width="1280"
+									height="1280"
+									filter="url(#grid-santoni)"
+								/>
+							</g></svg></a
+					><a href="brand.html?brand=Prada" aria-label="Примеры работ: Prada"
+						><svg
+							viewBox="800 240 560 140"
+							xmlns="http://www.w3.org/2000/svg"
+							role="img"
+							aria-label="Prada"
+							focusable="false"
+						>
+							<defs>
+								<clipPath id="grid-prada-crop">
+									<rect x="800" y="240" width="560" height="140" />
+								</clipPath>
+								<filter
+									id="grid-prada"
+									color-interpolation-filters="sRGB"
+									x="0"
+									y="0"
+									width="100%"
+									height="100%"
+								>
+									<feColorMatrix
+										type="matrix"
+										values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -.333 -.333 -.333 0 1"
+									/>
+									<feComponentTransfer>
+										<feFuncA type="linear" slope="1.5" intercept="-.12" />
+									</feComponentTransfer>
+								</filter>
+							</defs>
+							<g clip-path="url(#grid-prada-crop)">
+								<image
+									href="assets/case-IMG-2449.jpg"
+									width="1440"
+									height="1440"
+									filter="url(#grid-prada)"
+								/>
+							</g></svg></a
+					><a
+						href="brand.html?brand=Louis%20Vuitton"
+						aria-label="Примеры работ: Louis Vuitton"
+						><svg
+							viewBox="1580 360 520 570"
+							xmlns="http://www.w3.org/2000/svg"
+							role="img"
+							aria-label="Louis Vuitton"
+							focusable="false"
+						>
+							<defs>
+								<clipPath id="grid-louis-vuitton-crop">
+									<rect x="1580" y="360" width="520" height="570" />
+								</clipPath>
+								<filter
+									id="grid-louis-vuitton"
+									color-interpolation-filters="sRGB"
+									x="0"
+									y="0"
+									width="100%"
+									height="100%"
+								>
+									<feColorMatrix
+										type="matrix"
+										values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -.333 -.333 -.333 0 1"
+									/>
+									<feComponentTransfer>
+										<feFuncA type="linear" slope="1.5" intercept="-.12" />
+									</feComponentTransfer>
+								</filter>
+							</defs>
+							<g clip-path="url(#grid-louis-vuitton-crop)">
+								<image
+									href="assets/case-IMG-1808.jpg"
+									width="2400"
+									height="2400"
+									filter="url(#grid-louis-vuitton)"
+								/>
+							</g></svg></a
+					><a
+						href="brand.html?brand=Brunello%20Cucinelli"
+						aria-label="Примеры работ: Brunello Cucinelli"
+						><svg
+							viewBox="790 105 420 390"
+							xmlns="http://www.w3.org/2000/svg"
+							role="img"
+							aria-label="Brunello Cucinelli"
+							focusable="false"
+						>
+							<defs>
+								<clipPath id="grid-brunello-cucinelli-crop">
+									<rect x="790" y="105" width="420" height="390" />
+								</clipPath>
+								<filter
+									id="grid-brunello-cucinelli"
+									color-interpolation-filters="sRGB"
+									x="0"
+									y="0"
+									width="100%"
+									height="100%"
+								>
+									<feColorMatrix
+										type="matrix"
+										values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -.333 -.333 -.333 0 1"
+									/>
+									<feComponentTransfer>
+										<feFuncA type="linear" slope="1.5" intercept="-.12" />
+									</feComponentTransfer>
+								</filter>
+							</defs>
+							<g clip-path="url(#grid-brunello-cucinelli-crop)">
+								<image
+									href="assets/case-IMG_7376.png"
+									width="1280"
+									height="1280"
+									filter="url(#grid-brunello-cucinelli)"
+								/>
+							</g></svg></a
+					><a href="brand.html?brand=UGG" aria-label="Примеры работ: UGG"
+						><svg
+							viewBox="725 170 625 310"
+							xmlns="http://www.w3.org/2000/svg"
+							role="img"
+							aria-label="UGG"
+							focusable="false"
+						>
+							<defs>
+								<clipPath id="grid-ugg-crop">
+									<rect x="725" y="170" width="625" height="310" />
+								</clipPath>
+								<filter
+									id="grid-ugg"
+									color-interpolation-filters="sRGB"
+									x="0"
+									y="0"
+									width="100%"
+									height="100%"
+								>
+									<feColorMatrix
+										type="matrix"
+										values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -.333 -.333 -.333 0 1"
+									/>
+									<feComponentTransfer>
+										<feFuncA type="linear" slope="1.5" intercept="-.12" />
+									</feComponentTransfer>
+								</filter>
+							</defs>
+							<g clip-path="url(#grid-ugg-crop)">
+								<image
+									href="assets/case-274342370_6624108282.jpg"
+									width="1440"
+									height="1440"
+									filter="url(#grid-ugg)"
+								/>
+							</g></svg
+					></a>
+				</div>
+				<a class="text-link" href="brand.html">Все бренды и примеры работ ↗</a>
+			</section>
 			<section
 				class="fifth-slide section process"
 				id="work"
@@ -454,7 +736,10 @@
 					<h2 id="process-title">Новая жизнь вещи.<br />Без лишних хлопот.</h2>
 				</div>
 				<p class="section-intro reveal">
-					Удобный сервис с доставкой курьером по всей Москве в пределах МКАД. <a class="text-link" href="himchistka_s_besplatnoy_dostavkoy.html">О бесплатной доставке ↗</a>
+					Удобный сервис с доставкой курьером по всей Москве в пределах МКАД.
+					<a class="text-link" href="himchistka_s_besplatnoy_dostavkoy.html"
+						>О бесплатной доставке ↗</a
+					>
 				</p>
 				<div class="process-progress" aria-hidden="true"><span></span></div>
 				<ol class="steps">
@@ -516,7 +801,8 @@
 						class="review-image image-open reveal"
 						aria-label="Увеличить скриншот отзыва"
 					>
-						<img draggable="false"
+						<img
+							draggable="false"
 							src="assets/photo_2024-02-18_21-44-33.jpg"
 							alt="Скриншот отзыва клиента о восстановлении обуви BLEACH MOSCOW"
 							loading="lazy"
@@ -525,7 +811,8 @@
 						class="review-image image-open reveal"
 						aria-label="Увеличить отзывы клиентов"
 					>
-						<img draggable="false"
+						<img
+							draggable="false"
 							src="assets/otziv.png"
 							alt="Отзывы клиентов из материалов BLEACH MOSCOW"
 							loading="lazy"

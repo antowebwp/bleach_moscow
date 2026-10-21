@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Химчистка верхней одежды",
+    "image": "assets/stock-clothing-coat.avif",
+    "alt": "Бежевая верхняя одежда на вешалках, крупный план ткани и пуговиц",
+    "description": "Бережный уход за верхней одеждой. Способ обработки подбираем по составу материала, отделке и рекомендациям производителя. Объём работ и стоимость согласуем после оценки изделия.",
+    "source": "https://www.pexels.com/photo/close-up-shot-of-hanging-blazers-with-brown-buttons-9168856/",
+    "photographer": "Sena Aykut"
+  },
+  {
+    "title": "Химчистка сорочек",
+    "image": "assets/stock-clothing-shirt.avif",
+    "alt": "Белые сорочки на деревянных вешалках",
+    "description": "Уход за сорочками с учётом состава ткани и состояния воротника и манжет. Перед чисткой оцениваем загрязнения и особенности изделия; подходящий состав работ уточнит мастер.",
+    "source": "https://www.pexels.com/photo/white-shirts-on-hangers-17293343/",
+    "photographer": "Pew Nguyen"
+  },
+  {
+    "title": "Химчистка трикотажных изделий",
+    "image": "assets/stock-clothing-knit.avif",
+    "alt": "Аккуратно сложенный трикотаж мягких оттенков",
+    "description": "Деликатный уход за трикотажными изделиями. Учитываем состав волокон, структуру вязки и маркировку по уходу. Состояние вещи и допустимый способ чистки оцениваем до начала работ.",
+    "source": "https://www.pexels.com/photo/a-close-up-shot-of-folded-knitted-clothes-14641440/",
+    "photographer": "Nati"
+  }
+]

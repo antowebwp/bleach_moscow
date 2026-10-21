@@ -43,6 +43,8 @@ function filterWorks(){
   if(window.gsap&&!reducedUI.matches){gsap.killTweensOf(archiveCards);gsap.fromTo(archiveCards.filter(card=>!card.hidden),{opacity:.5,y:16},{opacity:1,y:0,duration:.45,stagger:.015,ease:'power2.out',overwrite:true});}
 }
 if(archiveSearch){
+  const requestedBrand=new URLSearchParams(location.search).get('brand');
+  if(requestedBrand&&archiveCards.some(card=>card.dataset.brand===requestedBrand))chosenBrand=requestedBrand;
   archiveSearch.addEventListener('input',()=>{clearTimeout(searchFrame);searchFrame=setTimeout(filterWorks,120);});
   document.querySelector('#clear-search').addEventListener('click',()=>{archiveSearch.value='';filterWorks();archiveSearch.focus();});
   document.querySelectorAll('[data-category-filter]').forEach(button=>button.addEventListener('click',()=>{chosenCategory=button.dataset.categoryFilter;filterWorks();}));

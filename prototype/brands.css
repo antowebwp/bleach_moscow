@@ -23,3 +23,6 @@
 @media(hover:none),(pointer:coarse){.work-card{aspect-ratio:auto}.work-project-link{height:auto}.work-photo{height:auto;aspect-ratio:1}}
 
 @media(min-width:701px){.project-pattern[data-size="10"]{aspect-ratio:1;grid-template-columns:repeat(4,minmax(0,1fr));grid-template-rows:repeat(4,minmax(0,1fr))}.project-pattern:not([data-size="10"]){aspect-ratio:auto;max-width:none;grid-template-columns:repeat(4,minmax(0,1fr));grid-template-rows:none}.project-pattern:not([data-size="10"]) .work-card{aspect-ratio:1;grid-area:auto;height:auto}.project-pattern[data-size="10"] .work-card{aspect-ratio:auto;height:100%}}
+.brand-marquee-set>span{display:flex;align-items:center;justify-content:center}
+.brand-marquee-set>span>img{width:180px;height:64px;object-fit:contain;filter:grayscale(1);mix-blend-mode:multiply}
+.brand-marquee-set>span>svg{width:180px;height:64px;display:block;overflow:hidden}

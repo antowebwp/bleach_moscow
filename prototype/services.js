@@ -27,7 +27,7 @@ document.querySelectorAll('[data-direction]').forEach(chapter => {
     const preload = new Image(); preload.src = item.dataset.image;
     preload.decode().then(() => {
       if(request !== revision) return;
-      photo.src = preload.src; photo.alt = item.dataset.title;
+      photo.src = preload.src; photo.alt = item.dataset.alt || item.dataset.title;
       title.textContent = item.dataset.title; status.textContent = '';
       if(window.gsap && !matchMedia('(prefers-reduced-motion:reduce)').matches)
         gsap.fromTo(photo,{clipPath:'inset(0 0 12% 0)',scale:1.065,opacity:.4},{clipPath:'inset(0 0 0% 0)',scale:1,opacity:1,duration:.85,ease:'power3.out',overwrite:true});
