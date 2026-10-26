@@ -26,3 +26,5 @@
 #direction-dialog p{line-height:1.8}
 
 .catalog-item .full-detail-link{margin:0 0 var(--space-8) 38px}
+
+.catalog-hero-art:has(img[src*="catalog-collection"]){height:auto;aspect-ratio:4/3}.catalog-hero-art img[src*="catalog-collection"]{object-fit:contain;transform:none}

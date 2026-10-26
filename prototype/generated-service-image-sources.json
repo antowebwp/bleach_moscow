@@ -1,0 +1,32 @@
+[
+  {
+    "id": "clothing-coat",
+    "prompt": "Use case: product-mockup. Square premium editorial product photograph for a luxury dry cleaning service tile. One immaculate camel beige wool coat on a simple dark wooden hanger, front three-quarter view, natural fabric detail and elegant lapels, no person. Warm light grey seamless studio background, soft refined diffused side light, subtle natural shadow. Coat fully visible with generous margins, centered framing. Calm ivory, taupe and muted gold palette. Realistic high-end fashion photography. No text, logo, label or watermark.",
+    "transparent": false,
+    "path": "C:\\Users\\lifak\\.codex\\generated_images\\01a12a45-6e2e-7d73-adb6-aaf389b8c8f6\\exec-12a26e54-497b-4365-a70b-ab506c3a16c7.png"
+  },
+  {
+    "id": "clothing-shirt",
+    "prompt": "Use case: product-mockup. Square premium editorial product photograph for a luxury dry cleaning service tile. One freshly cleaned ivory white cotton dress shirt on a simple dark wooden hanger, front three-quarter view, crisp collar, neat cuffs, natural fine cotton texture, no person. Warm light grey seamless studio background, soft refined diffused side light, subtle natural shadow. Shirt fully visible with generous margins, centered framing. Calm ivory and taupe palette. Realistic high-end fashion photography. No text, logo, label or watermark.",
+    "transparent": false,
+    "path": "C:\\Users\\lifak\\.codex\\generated_images\\01a12a45-6e2e-7d73-adb6-aaf389b8c8f6\\exec-3a2f154e-4e48-4235-8743-18b2a8759a5a.png"
+  },
+  {
+    "id": "clothing-knit",
+    "prompt": "Use case: product-mockup. Square premium editorial product photograph for a luxury knitwear dry cleaning tile. An immaculate neatly folded oatmeal cashmere sweater over one folded ivory knit, fine soft wool texture clearly visible, a tasteful visible ribbed collar and folded sleeve. Warm light grey seamless studio background, soft refined diffused side light and subtle natural shadow. Centered composition with generous margins, elegant understated luxury. Realistic high-end fashion photography. No people, text, logo, label or watermark.",
+    "transparent": false,
+    "path": "C:\\Users\\lifak\\.codex\\generated_images\\01a12a45-6e2e-7d73-adb6-aaf389b8c8f6\\exec-2efba8e9-c06e-439a-999f-bde76447fae8.png"
+  },
+  {
+    "id": "clean-loafer",
+    "prompt": "Use case: product-mockup. Photorealistic premium product cutout on a truly transparent alpha background. ONE immaculate clean sand beige suede loafer, full strict side profile, toe pointing left, heel to right. Smooth flawless evenly brushed suede nap, pristine ivory rubber sole with absolutely no dirt, wear, discoloration or scuffs, refined neat moccasin stitching, realistic unbranded luxury footwear. Entire shoe visible with generous transparent margin, horizontal composition around 2:1. Soft neutral studio illumination, no floor, no backdrop, no cast shadow, no text, no logo, no watermark. Preserve real transparency.",
+    "transparent": true,
+    "path": "C:\\Users\\lifak\\.codex\\generated_images\\01a12a45-6e2e-7d73-adb6-aaf389b8c8f6\\exec-fa3b0e8e-5ce7-40ea-9635-4f4dc46b6a46.png"
+  },
+  {
+    "id": "catalog-collection",
+    "prompt": "Use case: product-mockup. Premium editorial product photograph for a shoe, bag and clothing care service website, horizontal 4:3 composition designed to crop comfortably to a square. Artfully arranged THREE clear subjects all fully contained within central 75 percent of the frame: one pair of immaculate sand beige suede loafers with pristine ivory soles in foreground left, an elegant unbranded structured taupe leather handbag foreground right, and one ivory shirt under a camel wool coat on a slim dark garment rail behind them. All items look freshly cleaned and pristine. Sophisticated warm charcoal studio backdrop and dark stone floor, soft directional window light, tactile suede, leather and wool. Restrained black, warm ivory, taupe and muted gold palette, balanced quiet luxury styling, realistic luxury campaign photography. No text, no logos, no watermarks, no people, no collage.",
+    "transparent": false,
+    "path": "C:\\Users\\lifak\\.codex\\generated_images\\01a12a45-6e2e-7d73-adb6-aaf389b8c8f6\\exec-aaff1afe-373a-43d2-9517-0aa89a6fb5e9.png"
+  }
+]

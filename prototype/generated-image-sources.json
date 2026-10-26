@@ -1,0 +1,437 @@
+[
+  {
+    "id": "hero",
+    "prompt": "Wide 16:9 luxury editorial photograph for a premium shoe and garment care website. Immaculate unbranded black suede loafers and a small folded warm beige cashmere textile on a charcoal work surface, sculptural side lighting, subtle suede grain, deep near-black background with generous dark negative space in the center for website text. Restrained black, warm ivory and muted antique gold palette, sophisticated real photographic art direction, no logos, no text, no dirty shoes, no collage.",
+    "path": "C:\\Users\\lifak\\.codex\\generated_images\\01a12a45-6e2e-7d73-adb6-aaf389b8c8f6\\exec-970d0122-8d66-47d5-87e4-c1db9b645dcf.png",
+    "keys": [
+      "image_url",
+      "output_hint"
+    ],
+    "originalSize": [
+      1672,
+      941
+    ],
+    "variants": [
+      {
+        "width": 640,
+        "path": "assets/generated/hero-640.webp",
+        "bytes": 15080
+      },
+      {
+        "width": 960,
+        "path": "assets/generated/hero-960.webp",
+        "bytes": 32822
+      },
+      {
+        "width": 1600,
+        "path": "assets/generated/hero-1600.webp",
+        "bytes": 78702
+      }
+    ]
+  },
+  {
+    "id": "assessment",
+    "prompt": "Wide 16:9 cinematic editorial photograph: close detail of an artisan wearing clean black nitrile gloves gently examining a pristine warm taupe leather handbag at a charcoal atelier workbench. Hands and bag occupy the left half; right half has dark quiet negative space. Restrained black, warm beige, muted gold palette, tactile material detail, beautiful natural side light, realistic anatomy, no brand logos, no text, no before-after collage.",
+    "path": "C:\\Users\\lifak\\.codex\\generated_images\\01a12a45-6e2e-7d73-adb6-aaf389b8c8f6\\exec-542cc384-50a0-483a-b498-504358628f43.png",
+    "keys": [
+      "image_url",
+      "output_hint"
+    ],
+    "originalSize": [
+      1672,
+      941
+    ],
+    "variants": [
+      {
+        "width": 640,
+        "path": "assets/generated/assessment-640.webp",
+        "bytes": 18172
+      },
+      {
+        "width": 960,
+        "path": "assets/generated/assessment-960.webp",
+        "bytes": 39256
+      },
+      {
+        "width": 1600,
+        "path": "assets/generated/assessment-1600.webp",
+        "bytes": 94498
+      }
+    ]
+  },
+  {
+    "id": "atelier",
+    "prompt": "Wide 16:9 luxury editorial photograph of a refined clothing care atelier: a neat rail of ivory shirts, a beige wool coat and charcoal garment bags, a small folded cashmere stack on a dark oak counter. Warm soft light, charcoal walls, spare elegant interior, quiet right-side negative space, realistic photography, no people, no signs, no logos, no text.",
+    "path": "C:\\Users\\lifak\\.codex\\generated_images\\01a12a45-6e2e-7d73-adb6-aaf389b8c8f6\\exec-63475c83-e38f-4aaa-a9d0-3923ef7c5cf3.png",
+    "keys": [
+      "image_url",
+      "output_hint"
+    ],
+    "originalSize": [
+      1672,
+      941
+    ],
+    "variants": [
+      {
+        "width": 640,
+        "path": "assets/generated/atelier-640.webp",
+        "bytes": 20940
+      },
+      {
+        "width": 960,
+        "path": "assets/generated/atelier-960.webp",
+        "bytes": 39926
+      },
+      {
+        "width": 1600,
+        "path": "assets/generated/atelier-1600.webp",
+        "bytes": 84264
+      }
+    ]
+  },
+  {
+    "id": "football",
+    "prompt": "Landscape 3:2 premium editorial still-life photograph of clean unbranded black football boots with understated ivory detailing beside a folded beige towel and a soft bristle cleaning brush on charcoal stone. No visible logos. Soft natural side lighting, tactile leather, elegant restrained neutral palette, realistic sports footwear studs, no text, no collage.",
+    "path": "C:\\Users\\lifak\\.codex\\generated_images\\01a12a45-6e2e-7d73-adb6-aaf389b8c8f6\\exec-3f89ee78-def3-4fde-b5c2-fe70590d3e4a.png",
+    "keys": [
+      "image_url",
+      "output_hint"
+    ],
+    "originalSize": [
+      1536,
+      1024
+    ],
+    "variants": [
+      {
+        "width": 640,
+        "path": "assets/generated/football-640.webp",
+        "bytes": 41076
+      },
+      {
+        "width": 960,
+        "path": "assets/generated/football-960.webp",
+        "bytes": 82584
+      },
+      {
+        "width": 1536,
+        "path": "assets/generated/football-1600.webp",
+        "bytes": 177642
+      }
+    ]
+  },
+  {
+    "id": "hygiene",
+    "prompt": "Landscape 3:2 premium editorial still-life photograph of an immaculate unbranded beige leather sneaker with a cedar shoe tree and a soft brush on a charcoal stone surface. Clean shoe care and freshness concept, warm natural side light, warm ivory, black, taupe palette, realistic photography, no mold, no dirt, no logos, no text.",
+    "path": "C:\\Users\\lifak\\.codex\\generated_images\\01a12a45-6e2e-7d73-adb6-aaf389b8c8f6\\exec-a86ea1c0-ab7e-4558-9e83-a1a7ac38662a.png",
+    "keys": [
+      "image_url",
+      "output_hint"
+    ],
+    "originalSize": [
+      1536,
+      1024
+    ],
+    "variants": [
+      {
+        "width": 640,
+        "path": "assets/generated/hygiene-640.webp",
+        "bytes": 40714
+      },
+      {
+        "width": 960,
+        "path": "assets/generated/hygiene-960.webp",
+        "bytes": 75750
+      },
+      {
+        "width": 1536,
+        "path": "assets/generated/hygiene-1600.webp",
+        "bytes": 153334
+      }
+    ]
+  },
+  {
+    "id": "workboots",
+    "prompt": "Landscape 3:2 premium editorial photograph of a pair of clean unbranded dark brown leather protective work boots, sturdy toe caps and practical sole, neatly placed on a charcoal workbench beside a small brush. Sophisticated warm neutral light, tactile leather, minimal elegant framing, realistic photography, no construction clutter, no logos, no text.",
+    "path": "C:\\Users\\lifak\\.codex\\generated_images\\01a12a45-6e2e-7d73-adb6-aaf389b8c8f6\\exec-acc0383d-716f-427d-b06f-ef5ece8741e0.png",
+    "keys": [
+      "image_url",
+      "output_hint"
+    ],
+    "originalSize": [
+      1536,
+      1024
+    ],
+    "variants": [
+      {
+        "width": 640,
+        "path": "assets/generated/workboots-640.webp",
+        "bytes": 25098
+      },
+      {
+        "width": 960,
+        "path": "assets/generated/workboots-960.webp",
+        "bytes": 51872
+      },
+      {
+        "width": 1536,
+        "path": "assets/generated/workboots-1600.webp",
+        "bytes": 116336
+      }
+    ]
+  },
+  {
+    "id": "riding",
+    "prompt": "Landscape 3:2 premium editorial photograph of a pair of immaculate tall black leather equestrian riding boots with elegant shafts beside a folded beige cloth, charcoal studio wall and warm grey floor, refined side light showing polished leather texture, realistic proportions, restrained black and ivory palette, no person, no logos, no text.",
+    "path": "C:\\Users\\lifak\\.codex\\generated_images\\01a12a45-6e2e-7d73-adb6-aaf389b8c8f6\\exec-d947a41f-4566-41a5-b68f-ebaf24a85660.png",
+    "keys": [
+      "image_url",
+      "output_hint"
+    ],
+    "originalSize": [
+      1536,
+      1024
+    ],
+    "variants": [
+      {
+        "width": 640,
+        "path": "assets/generated/riding-640.webp",
+        "bytes": 15106
+      },
+      {
+        "width": 960,
+        "path": "assets/generated/riding-960.webp",
+        "bytes": 29544
+      },
+      {
+        "width": 1536,
+        "path": "assets/generated/riding-1600.webp",
+        "bytes": 64800
+      }
+    ]
+  },
+  {
+    "id": "skates",
+    "prompt": "Landscape 3:2 premium editorial photograph of immaculate ivory leather figure skating boots with realistic silver figure skate blades, neatly tied laces, placed on charcoal stone beside a folded taupe towel. Sophisticated soft side light, restrained warm neutral palette, high detail, realistic photography, no ice rink, no brand logos, no text.",
+    "path": "C:\\Users\\lifak\\.codex\\generated_images\\01a12a45-6e2e-7d73-adb6-aaf389b8c8f6\\exec-1b485b84-bc80-4e2f-9a8e-9e1b8b0678bc.png",
+    "keys": [
+      "image_url",
+      "output_hint"
+    ],
+    "originalSize": [
+      1536,
+      1024
+    ],
+    "variants": [
+      {
+        "width": 640,
+        "path": "assets/generated/skates-640.webp",
+        "bytes": 53420
+      },
+      {
+        "width": 960,
+        "path": "assets/generated/skates-960.webp",
+        "bytes": 103038
+      },
+      {
+        "width": 1536,
+        "path": "assets/generated/skates-1600.webp",
+        "bytes": 207292
+      }
+    ]
+  },
+  {
+    "id": "climbing",
+    "prompt": "Landscape 3:2 premium editorial still life photograph of a pair of clean unbranded charcoal and warm taupe climbing shoes with realistic curved rubber soles on dark grey stone, a soft brush beside them. Restrained warm neutral palette with minimal muted ochre accent, soft natural side lighting, realistic equipment, no text, no logos.",
+    "path": "C:\\Users\\lifak\\.codex\\generated_images\\01a12a45-6e2e-7d73-adb6-aaf389b8c8f6\\exec-567e3e0e-dfa5-4581-9f82-2919395614b8.png",
+    "keys": [
+      "image_url",
+      "output_hint"
+    ],
+    "originalSize": [
+      1536,
+      1024
+    ],
+    "variants": [
+      {
+        "width": 640,
+        "path": "assets/generated/climbing-640.webp",
+        "bytes": 40856
+      },
+      {
+        "width": 960,
+        "path": "assets/generated/climbing-960.webp",
+        "bytes": 79496
+      },
+      {
+        "width": 1536,
+        "path": "assets/generated/climbing-1600.webp",
+        "bytes": 163204
+      }
+    ]
+  },
+  {
+    "id": "repair",
+    "prompt": "Landscape 3:2 premium editorial photograph of a shoe repair craftsperson's hands in black gloves carefully working at the sole edge of a clean dark brown leather loafer on a charcoal atelier bench. A few neatly aligned hand tools, warm precise side lighting, realistic hands and materials, quiet luxurious composition, no brands, no text.",
+    "path": "C:\\Users\\lifak\\.codex\\generated_images\\01a12a45-6e2e-7d73-adb6-aaf389b8c8f6\\exec-9a1d7202-b0f9-403b-b64f-21b023f7284c.png",
+    "keys": [
+      "image_url",
+      "output_hint"
+    ],
+    "originalSize": [
+      1536,
+      1024
+    ],
+    "variants": [
+      {
+        "width": 640,
+        "path": "assets/generated/repair-640.webp",
+        "bytes": 31712
+      },
+      {
+        "width": 960,
+        "path": "assets/generated/repair-960.webp",
+        "bytes": 57914
+      },
+      {
+        "width": 1536,
+        "path": "assets/generated/repair-1600.webp",
+        "bytes": 115588
+      }
+    ]
+  },
+  {
+    "id": "clothing-coat",
+    "prompt": "Use case: product-mockup. Square premium editorial product photograph for a luxury dry cleaning service tile. One immaculate camel beige wool coat on a simple dark wooden hanger, front three-quarter view, natural fabric detail and elegant lapels, no person. Warm light grey seamless studio background, soft refined diffused side light, subtle natural shadow. Coat fully visible with generous margins, centered framing. Calm ivory, taupe and muted gold palette. Realistic high-end fashion photography. No text, logo, label or watermark.",
+    "transparent": false,
+    "path": "C:\\Users\\lifak\\.codex\\generated_images\\01a12a45-6e2e-7d73-adb6-aaf389b8c8f6\\exec-12a26e54-497b-4365-a70b-ab506c3a16c7.png",
+    "originalSize": [
+      1254,
+      1254
+    ],
+    "variants": [
+      {
+        "width": 640,
+        "path": "assets/generated/clothing-coat-640.webp",
+        "bytes": 15354
+      },
+      {
+        "width": 960,
+        "path": "assets/generated/clothing-coat-960.webp",
+        "bytes": 43074
+      },
+      {
+        "width": 1254,
+        "path": "assets/generated/clothing-coat-1600.webp",
+        "bytes": 72452
+      }
+    ]
+  },
+  {
+    "id": "clothing-shirt",
+    "prompt": "Use case: product-mockup. Square premium editorial product photograph for a luxury dry cleaning service tile. One freshly cleaned ivory white cotton dress shirt on a simple dark wooden hanger, front three-quarter view, crisp collar, neat cuffs, natural fine cotton texture, no person. Warm light grey seamless studio background, soft refined diffused side light, subtle natural shadow. Shirt fully visible with generous margins, centered framing. Calm ivory and taupe palette. Realistic high-end fashion photography. No text, logo, label or watermark.",
+    "transparent": false,
+    "path": "C:\\Users\\lifak\\.codex\\generated_images\\01a12a45-6e2e-7d73-adb6-aaf389b8c8f6\\exec-3a2f154e-4e48-4235-8743-18b2a8759a5a.png",
+    "originalSize": [
+      1254,
+      1254
+    ],
+    "variants": [
+      {
+        "width": 640,
+        "path": "assets/generated/clothing-shirt-640.webp",
+        "bytes": 10456
+      },
+      {
+        "width": 960,
+        "path": "assets/generated/clothing-shirt-960.webp",
+        "bytes": 19142
+      },
+      {
+        "width": 1254,
+        "path": "assets/generated/clothing-shirt-1600.webp",
+        "bytes": 29732
+      }
+    ]
+  },
+  {
+    "id": "clothing-knit",
+    "prompt": "Use case: product-mockup. Square premium editorial product photograph for a luxury knitwear dry cleaning tile. An immaculate neatly folded oatmeal cashmere sweater over one folded ivory knit, fine soft wool texture clearly visible, a tasteful visible ribbed collar and folded sleeve. Warm light grey seamless studio background, soft refined diffused side light and subtle natural shadow. Centered composition with generous margins, elegant understated luxury. Realistic high-end fashion photography. No people, text, logo, label or watermark.",
+    "transparent": false,
+    "path": "C:\\Users\\lifak\\.codex\\generated_images\\01a12a45-6e2e-7d73-adb6-aaf389b8c8f6\\exec-2efba8e9-c06e-439a-999f-bde76447fae8.png",
+    "originalSize": [
+      1254,
+      1254
+    ],
+    "variants": [
+      {
+        "width": 640,
+        "path": "assets/generated/clothing-knit-640.webp",
+        "bytes": 42424
+      },
+      {
+        "width": 960,
+        "path": "assets/generated/clothing-knit-960.webp",
+        "bytes": 87356
+      },
+      {
+        "width": 1254,
+        "path": "assets/generated/clothing-knit-1600.webp",
+        "bytes": 131392
+      }
+    ]
+  },
+  {
+    "id": "clean-loafer",
+    "prompt": "Use case: product-mockup. Photorealistic premium product cutout on a truly transparent alpha background. ONE immaculate clean sand beige suede loafer, full strict side profile, toe pointing left, heel to right. Smooth flawless evenly brushed suede nap, pristine ivory rubber sole with absolutely no dirt, wear, discoloration or scuffs, refined neat moccasin stitching, realistic unbranded luxury footwear. Entire shoe visible with generous transparent margin, horizontal composition around 2:1. Soft neutral studio illumination, no floor, no backdrop, no cast shadow, no text, no logo, no watermark. Preserve real transparency.",
+    "transparent": true,
+    "path": "C:\\Users\\lifak\\.codex\\generated_images\\01a12a45-6e2e-7d73-adb6-aaf389b8c8f6\\exec-fa3b0e8e-5ce7-40ea-9635-4f4dc46b6a46.png",
+    "originalSize": [
+      1774,
+      887
+    ],
+    "variants": [
+      {
+        "width": 640,
+        "path": "assets/generated/clean-loafer-640.webp",
+        "bytes": 21008
+      },
+      {
+        "width": 960,
+        "path": "assets/generated/clean-loafer-960.webp",
+        "bytes": 43646
+      },
+      {
+        "width": 1600,
+        "path": "assets/generated/clean-loafer-1600.webp",
+        "bytes": 121374
+      }
+    ]
+  },
+  {
+    "id": "catalog-collection",
+    "prompt": "Use case: product-mockup. Premium editorial product photograph for a shoe, bag and clothing care service website, horizontal 4:3 composition designed to crop comfortably to a square. Artfully arranged THREE clear subjects all fully contained within central 75 percent of the frame: one pair of immaculate sand beige suede loafers with pristine ivory soles in foreground left, an elegant unbranded structured taupe leather handbag foreground right, and one ivory shirt under a camel wool coat on a slim dark garment rail behind them. All items look freshly cleaned and pristine. Sophisticated warm charcoal studio backdrop and dark stone floor, soft directional window light, tactile suede, leather and wool. Restrained black, warm ivory, taupe and muted gold palette, balanced quiet luxury styling, realistic luxury campaign photography. No text, no logos, no watermarks, no people, no collage.",
+    "transparent": false,
+    "path": "C:\\Users\\lifak\\.codex\\generated_images\\01a12a45-6e2e-7d73-adb6-aaf389b8c8f6\\exec-aaff1afe-373a-43d2-9517-0aa89a6fb5e9.png",
+    "originalSize": [
+      1448,
+      1086
+    ],
+    "variants": [
+      {
+        "width": 640,
+        "path": "assets/generated/catalog-collection-640.webp",
+        "bytes": 26472
+      },
+      {
+        "width": 960,
+        "path": "assets/generated/catalog-collection-960.webp",
+        "bytes": 60654
+      },
+      {
+        "width": 1448,
+        "path": "assets/generated/catalog-collection-1600.webp",
+        "bytes": 121594
+      }
+    ]
+  }
+]

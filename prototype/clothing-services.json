@@ -1,26 +1,26 @@
 [
   {
     "title": "Химчистка верхней одежды",
-    "image": "assets/stock-clothing-coat.avif",
-    "alt": "Бежевая верхняя одежда на вешалках, крупный план ткани и пуговиц",
+    "image": "assets/generated/clothing-coat-1600.webp",
+    "alt": "Чистое шерстяное пальто бежевого оттенка",
     "description": "Бережный уход за верхней одеждой. Способ обработки подбираем по составу материала, отделке и рекомендациям производителя. Объём работ и стоимость согласуем после оценки изделия.",
-    "source": "https://www.pexels.com/photo/close-up-shot-of-hanging-blazers-with-brown-buttons-9168856/",
-    "photographer": "Sena Aykut"
+    "source": "Сгенерировано встроенным image_gen",
+    "srcset": "assets/generated/clothing-coat-640.webp 640w, assets/generated/clothing-coat-960.webp 960w, assets/generated/clothing-coat-1600.webp 1254w"
   },
   {
     "title": "Химчистка сорочек",
-    "image": "assets/stock-clothing-shirt.avif",
-    "alt": "Белые сорочки на деревянных вешалках",
+    "image": "assets/generated/clothing-shirt-1600.webp",
+    "alt": "Свежая белая сорочка на вешалке",
     "description": "Уход за сорочками с учётом состава ткани и состояния воротника и манжет. Перед чисткой оцениваем загрязнения и особенности изделия; подходящий состав работ уточнит мастер.",
-    "source": "https://www.pexels.com/photo/white-shirts-on-hangers-17293343/",
-    "photographer": "Pew Nguyen"
+    "source": "Сгенерировано встроенным image_gen",
+    "srcset": "assets/generated/clothing-shirt-640.webp 640w, assets/generated/clothing-shirt-960.webp 960w, assets/generated/clothing-shirt-1600.webp 1254w"
   },
   {
     "title": "Химчистка трикотажных изделий",
-    "image": "assets/stock-clothing-knit.avif",
-    "alt": "Аккуратно сложенный трикотаж мягких оттенков",
+    "image": "assets/generated/clothing-knit-1600.webp",
+    "alt": "Аккуратно сложенный чистый кашемировый трикотаж",
     "description": "Деликатный уход за трикотажными изделиями. Учитываем состав волокон, структуру вязки и маркировку по уходу. Состояние вещи и допустимый способ чистки оцениваем до начала работ.",
-    "source": "https://www.pexels.com/photo/a-close-up-shot-of-folded-knitted-clothes-14641440/",
-    "photographer": "Nati"
+    "source": "Сгенерировано встроенным image_gen",
+    "srcset": "assets/generated/clothing-knit-640.webp 640w, assets/generated/clothing-knit-960.webp 960w, assets/generated/clothing-knit-1600.webp 1254w"
   }
 ]

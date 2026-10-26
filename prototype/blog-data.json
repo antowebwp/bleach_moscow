@@ -4,7 +4,7 @@
     "title": "Как чистить и сушить футбольные бутсы после игры",
     "published": "2026-10-14T14:06:42+00:00",
     "readMinutes": 12,
-    "cover": "assets/blog-kak-chistit-i-sushit-futbolnye-butsy.jpg",
+    "cover": "assets/generated/football-1600.webp",
     "source": "https://bleach.moscow/blog/kak-chistit-i-sushit-futbolnye-butsy/",
     "blocks": [
       {
@@ -171,7 +171,7 @@
     {
       "title": "Как чистить и сушить футбольные бутсы после игры",
       "href": "blog/kak-chistit-i-sushit-futbolnye-butsy.html",
-      "image": "assets/blog-kak-chistit-i-sushit-futbolnye-butsy.jpg",
+      "image": "assets/generated/football-1600.webp",
       "category": "Уход за обувью",
       "excerpt": "Грунт, крошка, влага. Что сделать после матча, чтобы сохранить пару.",
       "featured": true
@@ -179,37 +179,37 @@
     {
       "title": "Как безопасно удалить плесень из обуви и оценить повреждения",
       "href": "https://bleach.moscow/blog/kak-bezopasno-udalit-plesen-iz-obuvi/",
-      "image": "assets/blog-1.jpg",
+      "image": "assets/generated/hygiene-1600.webp",
       "category": "Уход за обувью"
     },
     {
       "title": "Как чистить и проверять защитную рабочую обувь",
       "href": "https://bleach.moscow/blog/kak-chistit-zashchitnuyu-rabochuyu-obuv/",
-      "image": "assets/blog-2.jpg",
+      "image": "assets/generated/workboots-1600.webp",
       "category": "Уход за обувью"
     },
     {
       "title": "Как ухаживать за кожаными сапогами для верховой езды",
       "href": "https://bleach.moscow/blog/kak-uhazhivat-za-sapogami-dlya-verhovoj-ezdy/",
-      "image": "assets/blog-3.jpg",
+      "image": "assets/generated/riding-1600.webp",
       "category": "Уход за обувью"
     },
     {
       "title": "Как сушить фигурные коньки и защищать лезвия от ржавчины",
       "href": "https://bleach.moscow/blog/kak-sushit-figurnye-konki/",
-      "image": "assets/blog-4.jpg",
+      "image": "assets/generated/skates-1600.webp",
       "category": "Уход за обувью"
     },
     {
       "title": "Как чистить скальные туфли и вовремя заметить износ подошвы",
       "href": "https://bleach.moscow/blog/kak-chistit-skalnye-tufli/",
-      "image": "assets/blog-5.jpg",
+      "image": "assets/generated/climbing-1600.webp",
       "category": "Ремонт и реставрация"
     },
     {
       "title": "Профессиональный ремонт обуви с гарантией качества: почему нам доверяют любимые пары",
       "href": "https://bleach.moscow/blog/remont_obuvi_s_garantiej_kachestva/",
-      "image": "assets/blog-6.png",
+      "image": "assets/generated/repair-1600.webp",
       "category": "Ремонт и реставрация"
     }
   ]

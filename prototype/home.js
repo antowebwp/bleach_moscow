@@ -6,13 +6,13 @@ if(window.gsap&&window.ScrollTrigger){
   const cleanups=[];
   const stack=document.querySelector('.care-stack');
   if(stack&&innerHeight>=540){
-   const panels=[...stack.querySelectorAll('.care-panel')],controls=stack.querySelector('.scene-controls'),buttons=[...controls.querySelectorAll('button')];
+   const panels=[...stack.querySelectorAll('.care-panel')],segments=Math.max(1,panels.length-1),controls=stack.querySelector('.scene-controls'),buttons=[...controls.querySelectorAll('button')];
    stack.classList.add('is-cinematic');controls.hidden=false;gsap.set(panels,{zIndex:i=>i+1});gsap.set(panels.slice(1),{clipPath:'inset(100% 0 0 0)'});let current=-1;
    const select=index=>{if(index===current)return;current=index;panels.forEach((panel,i)=>{panel.inert=i!==index;panel.setAttribute('aria-hidden',String(i!==index));});buttons.forEach((button,i)=>button.setAttribute('aria-current',String(i===index)));};select(0);
    const timeline=gsap.timeline({paused:true});
    panels.slice(1).forEach((panel,i)=>timeline.to(panel,{clipPath:'inset(0% 0 0 0)',duration:1,ease:'power2.inOut'},i).fromTo(panel.querySelector('img'),{scale:1.15,yPercent:7},{scale:1,yPercent:0,duration:1,ease:'none'},i).fromTo(panel.querySelector('.care-copy'),{y:60,opacity:.2},{y:0,opacity:1,duration:.7,ease:'power2.out'},i+.3).to(panels[i].querySelector('img'),{scale:1.08,yPercent:-5,duration:1,ease:'none'},i));
-   const trigger=ScrollTrigger.create({animation:timeline,trigger:stack,start:()=> 'top top+='+document.querySelector('.header').offsetHeight,end:()=>'+='+stack.offsetHeight*3,pin:true,scrub:1,invalidateOnRefresh:true,onUpdate:self=>select(Math.min(3,Math.round(self.progress*3)))});
-   const handlers=buttons.map((button,index)=>{const handler=()=>window.scrollTo({top:trigger.start+(trigger.end-trigger.start)*(index===0?0:Math.min(1,(index-.02)/3)),behavior:'smooth'});button.addEventListener('click',handler);return handler;});
+   const trigger=ScrollTrigger.create({animation:timeline,trigger:stack,start:()=> 'top top+='+document.querySelector('.header').offsetHeight,end:()=>'+='+stack.offsetHeight*segments,pin:true,scrub:1,invalidateOnRefresh:true,onUpdate:self=>select(Math.min(panels.length-1,Math.round(self.progress*segments)))});
+   const handlers=buttons.map((button,index)=>{const handler=()=>window.scrollTo({top:trigger.start+(trigger.end-trigger.start)*(index===0?0:Math.min(1,(index-.02)/segments)),behavior:'smooth'});button.addEventListener('click',handler);return handler;});
    cleanups.push(()=>{buttons.forEach((button,i)=>button.removeEventListener('click',handlers[i]));panels.forEach(panel=>{panel.inert=false;panel.removeAttribute('aria-hidden');});controls.hidden=true;stack.classList.remove('is-cinematic');});
   }
   const offer=document.querySelector('.offer-strip');

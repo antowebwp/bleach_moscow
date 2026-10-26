@@ -24,9 +24,13 @@ document.querySelectorAll('[data-direction]').forEach(chapter => {
     selected = index;
     const item = items[index], request = ++revision;
     count.textContent = String(index+1).padStart(2,'0')+' / '+String(items.length).padStart(2,'0');
-    const preload = new Image(); preload.src = item.dataset.image;
+    const preload = new Image();
+    const sources = item.dataset.srcset || '';
+    if(sources){preload.sizes='(max-width:600px) 100vw, 45vw';preload.srcset=sources;}
+    preload.src = item.dataset.image;
     preload.decode().then(() => {
       if(request !== revision) return;
+      if(sources){photo.sizes=preload.sizes;photo.srcset=sources;}else{photo.removeAttribute('srcset');photo.removeAttribute('sizes');}
       photo.src = preload.src; photo.alt = item.dataset.alt || item.dataset.title;
       title.textContent = item.dataset.title; status.textContent = '';
       if(window.gsap && !matchMedia('(prefers-reduced-motion:reduce)').matches)

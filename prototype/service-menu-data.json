@@ -12,12 +12,12 @@
       [
         "Комплексная реставрация",
         null,
-        "loro-piana.jpg"
+        "generated/clean-loafer-1600.webp"
       ],
       [
         "Замена подошвы Loro Piana",
         "loropiana.html",
-        "obuv.png"
+        "generated/clean-loafer-1600.webp"
       ],
       [
         "Сервисный центр Loro Piana",
@@ -57,7 +57,7 @@
         "UFhHDSU.jpg"
       ],
       [
-        "Покраска клатча",
+        "Локальное окрашивание сумки без полной покраски",
         null,
         "4.jpg"
       ],
@@ -94,17 +94,17 @@
       [
         "Химчистка верхней одежды",
         "himchistka_s_besplatnoy_dostavkoy.html",
-        "service-coat.svg"
+        "generated/clothing-coat-1600.webp"
       ],
       [
         "Химчистка сорочек",
         "himchistka_s_besplatnoy_dostavkoy.html",
-        "service-shirt.svg"
+        "generated/clothing-shirt-1600.webp"
       ],
       [
         "Химчистка трикотажных изделий",
         "himchistka_s_besplatnoy_dostavkoy.html",
-        "service-knit.svg"
+        "generated/clothing-knit-1600.webp"
       ]
     ]
   }
